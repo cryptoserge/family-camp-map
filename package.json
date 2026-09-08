@@ -1,0 +1,1 @@
+{"name":"family-camp-map","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test scripts/core.test.mjs"},"dependencies":{"leaflet":"1.9.4","leaflet.markercluster":"1.5.3"}}

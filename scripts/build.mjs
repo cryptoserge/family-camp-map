@@ -1,0 +1,10 @@
+import {mkdir,cp,rm} from 'node:fs/promises';
+await rm('dist',{recursive:true,force:true});
+await mkdir('dist/vendor',{recursive:true});
+await cp('public','dist',{recursive:true});
+await cp('index.html','dist/index.html');
+await cp('src','dist',{recursive:true});
+await cp('node_modules/leaflet/dist','dist/vendor/leaflet',{recursive:true});
+await cp('node_modules/leaflet.markercluster/dist','dist/vendor/cluster',{recursive:true});
+await cp('node_modules/leaflet/LICENSE','dist/vendor/leaflet/LICENSE');
+await cp('node_modules/leaflet.markercluster/MIT-LICENCE.txt','dist/vendor/cluster/LICENSE');

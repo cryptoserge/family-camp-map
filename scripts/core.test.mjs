@@ -25,3 +25,15 @@ test('share restores across phones and ignores invalid/duplicate IDs',()=>{
 });
 test('links cannot execute scripts',()=>{assert.equal(safeUrl('javascript:alert(1)'),'');assert.equal(safeUrl('data:text/html,test'),'');assert.ok(safeUrl('https://www.nap-camp.com/aichi/14972'));});
 test('map pins require verified source coordinates',()=>{for(const x of camps){assert.ok(x.address);if(x.location.status==='verified'){assert.ok(x.location.lat>33&&x.location.lat<37);assert.ok(x.location.lng>134&&x.location.lng<139);assert.ok(safeUrl(x.location.source));}else{assert.equal(x.location.lat,undefined);assert.equal(x.location.lng,undefined);}}});
+
+test('discovery respects filters and only includes suitable candidates',async()=>{
+ const {discover,discoveryCandidates}=await import('../src/core.js');
+ assert.equal(discoveryCandidates(camps,{status:''}).length,130);
+ for(const status of ['C','X','S'])assert.equal(discover(camps,{status}),undefined);
+ assert.equal(discover(camps,{q:'不存在の施設XYZ'}),undefined);
+ assert.equal(discover(camps,{q:'ヒマラヤ'}).id,'C107');
+ const options=discoveryCandidates(camps,{status:'',region:camps[0].region});
+ assert.ok(options.every(x=>['A','B'].includes(x.status)&&x.region===camps[0].region));
+ assert.equal(discover(camps,{status:''},()=>0).id,discoveryCandidates(camps,{status:''})[0].id);
+ assert.equal(discover(camps,{status:''},()=>.999999).id,discoveryCandidates(camps,{status:''}).at(-1).id);
+});

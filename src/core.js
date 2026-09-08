@@ -10,3 +10,6 @@ export function filtered(data,{q='',region='',visit='',type='',status='A'}) {
 }
 export function safeUrl(value) {try { const u=new URL(value);return ['http:','https:'].includes(u.protocol)?u.href:'';}catch{return '';}}
 export function shareHash(ids) {return '#'+new URLSearchParams({compare:ids.slice(0,3).join(',')});}
+
+export function discoveryCandidates(data,filters) {return filtered(data,filters).filter(x=>x.status==='A'||x.status==='B');}
+export function discover(data,filters,random=Math.random) {const rows=discoveryCandidates(data,filters);return rows.length?rows[Math.floor(random()*rows.length)]:undefined;}

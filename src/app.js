@@ -1,12 +1,12 @@
-import {statuses,restore,filtered,safeUrl,shareHash} from './core.js';
+import {statuses,restore,filtered,safeUrl,shareHash,discoveryCandidates,discover} from './core.js';
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let data=[],selected=[],active='',map,group,markers=new Map(),tileErrors=0,toastTimer;
 const filters={status:'A',q:'',region:'',visit:'',type:''};
 function toast(s){$('toast').textContent=s;$('toast').style.display='block';clearTimeout(toastTimer);toastTimer=setTimeout(()=>$('toast').style.display='none',3200);}
 function href(url,label){const u=safeUrl(url);return u?`<a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>`:'';}
-function tags(x){return `<span class="tag ${x.status}">${statuses[x.status]}</span>${x.visited?'<span class="visited">✓ 訪問済み</span>':''}${x.location.status!=='verified'?'<span class="tag">位置未確認</span>':''}`;}
-function compareLabel(id){return selected.includes(id)?'✓ 比較から外す':'＋ 比較に追加';}
+function tags(x){return `<span class="tag ${x.status}">${statuses[x.status]}</span>${x.visited?'<span class="visited"><span aria-hidden="true">VISITED</span>訪問済み</span>':''}${x.location.status!=='verified'?'<span class="tag">位置未確認</span>':''}`;}
+function compareLabel(id){return selected.includes(id)?'✓ 行き先候補から外す':'＋ 行き先候補に追加';}
 function makeMap(){
  try{
   if(!window.L)throw Error('map unavailable');
@@ -23,11 +23,20 @@ function draw(){
  $('result-count').textContent=`${filters.status?statuses[filters.status]:'すべて'} ${rows.length}件`;
  const located=rows.filter(x=>x.location.status==='verified').length;
  $('location-count').textContent=`地図 ${located}件 · 位置未確認 ${rows.length-located}件`;
- $('list').innerHTML=rows.length?rows.map((x,i)=>`<article class="camp-row ${active===x.id?'selected':''}" id="row-${x.id}"><div class="row-top"><span class="row-number">${i+1}</span><div><button class="row-title" data-detail="${x.id}">${esc(x.name)} <span aria-hidden="true">›</span></button><p class="address">${esc(x.address)}</p></div></div><p class="row-site">${esc(x.site||'利用区画を確認中')}</p><div class="row-facts"><span>広さ：${esc(x.size||'未確認')}</span><span>定員：${esc(x.capacity||'未確認')}</span></div><div class="row-bottom"><div class="tags">${tags(x)}</div><button data-add="${x.id}" aria-label="${esc(x.name)}を${selected.includes(x.id)?'比較から外す':'比較に追加'}">${compareLabel(x.id)}</button></div></article>`).join(''):'<p class="empty">条件に合う施設がありません。<br>地域や判定を変更して探してみてください。</p>';
- if(group){group.clearLayers();markers=new Map();rows.filter(x=>x.location.status==='verified').forEach(x=>{const m=L.marker([x.location.lat,x.location.lng],{title:x.name,icon:L.divIcon({className:`marker-pin ${x.status} ${active===x.id?'active':''}`,html:x.visited?'✓':'●',iconSize:[28,28]})}).on('add',()=>m.getElement()?.setAttribute('aria-label',x.name)).on('click',()=>openDetail(x.id));group.addLayer(m);markers.set(x.id,m);});}
+ $('list').innerHTML=rows.length?rows.map((x,i)=>`<article class="camp-row ${active===x.id?'selected':''}" id="row-${x.id}"><div class="row-top"><span class="row-number">${i+1}</span><div><button class="row-title" data-detail="${x.id}">${esc(x.name)} <span aria-hidden="true">›</span></button><p class="address">${esc(x.address)}</p></div></div><p class="row-site">${esc(x.site||'利用区画を確認中')}</p><div class="row-facts"><span>広さ：${esc(x.size||'未確認')}</span><span>定員：${esc(x.capacity||'未確認')}</span></div><div class="row-bottom"><div class="tags">${tags(x)}</div><button data-add="${x.id}" aria-label="${esc(x.name)}を${selected.includes(x.id)?'行き先候補から外す':'行き先候補に追加'}">${compareLabel(x.id)}</button></div></article>`).join(''):'<p class="empty">条件に合う施設がありません。<br>地域や判定を変更して探してみてください。</p>';
+ if(group){group.clearLayers();markers=new Map();rows.forEach((x,i)=>{if(x.location.status!=='verified')return;const m=L.marker([x.location.lat,x.location.lng],{title:x.name,icon:L.divIcon({className:`marker-pin ${x.status} ${active===x.id?'active':''}`,html:`${i+1}${x.visited?'<small>✓</small>':''}`,iconSize:[28,28]})}).on('add',()=>m.getElement()?.setAttribute('aria-label',x.name)).on('click',()=>openDetail(x.id));group.addLayer(m);markers.set(x.id,m);});}
  document.querySelectorAll('[data-status]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.status===filters.status)));
  $('compare-count').textContent=`${selected.length} / 3`;
  $('share').disabled=!selected.length;
+ const eligible=discoveryCandidates(data,filters).length;
+ $('discover').disabled=!eligible;
+ $('discover-label').innerHTML=eligible?'今日はここを<br class="desktop-break">見てみる':'候補・条件付きが<br class="desktop-break">ありません';
+ $('discover-note').textContent=eligible?'検索条件に合う候補・条件付きから1件を選びます':'この条件には候補・条件付きの施設がありません';
+ $('discover').title=$('discover-note').textContent;
+ $('tray-count').textContent=`${selected.length} / 3`;
+ $('tray-open').disabled=!selected.length;
+ $('tray-hint').hidden=!!selected.length;
+ $('tray-camps').innerHTML=selected.map(id=>{const x=data.find(x=>x.id===id);return `<button data-detail="${id}" title="${esc(x.name)}">${esc(x.name)}</button>`;}).join('');
 }
 function openDetail(id){
  const x=data.find(x=>x.id===id);if(!x)return;active=id;draw();
@@ -56,7 +65,8 @@ document.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)r
 for(const id of ['region','visit','type'])$(id).addEventListener('change',e=>{filters[id]=e.target.value;draw();fit();});
 $('search').addEventListener('input',e=>{filters.q=e.target.value;draw();fit();});
 $('reset').onclick=()=>{Object.assign(filters,{status:'A',q:'',region:'',visit:'',type:''});for(const id of ['region','visit','type','search'])$(id).value='';draw();fit();};
-$('fit-map').onclick=fit;$('view-map').onclick=()=>setView('map');$('view-list').onclick=()=>setView('list');$('compare-open').onclick=openComparison;
+$('fit-map').onclick=fit;$('view-map').onclick=()=>setView('map');$('view-list').onclick=()=>setView('list');$('compare-open').onclick=openComparison;$('tray-open').onclick=openComparison;
+$('discover').onclick=()=>{const x=discover(data,filters);if(x)openDetail(x.id);};
 $('share').onclick=async()=>{const url=new URL(location.href);url.hash=shareHash(selected);try{await navigator.clipboard.writeText(url.href);toast('共有URLをコピーしました');}catch{$('copy-fallback').hidden=false;$('share-url').value=url.href;$('share-url').select();}};
 for(const dialog of document.querySelectorAll('dialog'))dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}});
 window.addEventListener('hashchange',()=>{selected=restore(location.hash,data);draw();if(selected.length)openComparison();else $('comparison').close();});

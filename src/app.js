@@ -1,7 +1,7 @@
 import {statuses,restore,filtered,safeUrl,shareHash,discoveryCandidates,discover} from './core.js';
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-let photos={},data=[],selected=[],active='',map,group,markers=new Map(),tileErrors=0,toastTimer;
+let intros={},photos={},data=[],selected=[],active='',map,group,markers=new Map(),tileErrors=0,toastTimer;
 const filters={status:'A',q:'',region:'',visit:'',type:''};
 function toast(s){$('toast').textContent=s;$('toast').style.display='block';clearTimeout(toastTimer);toastTimer=setTimeout(()=>$('toast').style.display='none',3200);}
 function href(url,label){const u=safeUrl(url);return u?`<a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>`:'';}
@@ -11,6 +11,10 @@ function photo(x,compact=false){
  return `<figure class="camp-photo ${compact?'compact':''}"><a href="${esc(safeUrl(p.source))}" target="_blank" rel="noopener noreferrer"><img src="${esc(p.url)}" alt="${esc(x.name)}の施設写真" loading="lazy" referrerpolicy="no-referrer"></a><figcaption>${href(p.source,p.credit)}${compact?'':'<span>施設の紹介写真です。選ぶ区画と異なる場合があります。</span>'}</figcaption></figure>`;
 }
 document.addEventListener('error',e=>{if(e.target.matches?.('.camp-photo img')){const f=e.target.closest('figure');e.target.parentElement.hidden=true;f.insertAdjacentHTML('afterbegin','<p class="photo-unavailable">写真を読み込めませんでした。下の出典からご覧ください。</p>');}},true);
+function intro(x,detail=false){
+ const t=intros[x.id];if(!t)return '';
+ return `<div class="camp-intro"><p>${esc(t.text)}</p>${detail?`<small>${href(t.source,'紹介の出典')} · ${esc(t.checked)}確認</small>`:''}</div>`;
+}
 function compareLabel(id){return selected.includes(id)?'✓ 行き先候補から外す':'＋ 行き先候補に追加';}
 function makeMap(){
  try{
@@ -28,7 +32,7 @@ function draw(){
  $('result-count').textContent=`${filters.status?statuses[filters.status]:'すべて'} ${rows.length}件`;
  const located=rows.filter(x=>x.location.status==='verified').length;
  $('location-count').textContent=`地図 ${located}件 · 位置未確認 ${rows.length-located}件`;
- $('list').innerHTML=rows.length?rows.map(x=>`<article class="camp-row ${active===x.id?'selected':''}" id="row-${x.id}"><div class="row-top"><div><button class="row-title" data-detail="${x.id}">${esc(x.name)} <span aria-hidden="true">›</span></button><p class="address">${esc(x.address)}</p></div></div>${photo(x,true)}<p class="row-site">${esc(x.site||'利用区画を確認中')}</p><div class="row-facts"><span>広さ：${esc(x.size||'未確認')}</span><span>定員：${esc(x.capacity||'未確認')}</span></div><div class="row-bottom"><div class="tags">${tags(x)}</div><button data-add="${x.id}" aria-label="${esc(x.name)}を${selected.includes(x.id)?'行き先候補から外す':'行き先候補に追加'}">${compareLabel(x.id)}</button></div></article>`).join(''):'<p class="empty">条件に合う施設がありません。<br>地域や判定を変更して探してみてください。</p>';
+ $('list').innerHTML=rows.length?rows.map(x=>`<article class="camp-row ${active===x.id?'selected':''}" id="row-${x.id}"><div class="row-top"><div><button class="row-title" data-detail="${x.id}">${esc(x.name)} <span aria-hidden="true">›</span></button><p class="address">${esc(x.address)}</p></div></div>${intro(x)}${photo(x,true)}<p class="row-site">${esc(x.site||'利用区画を確認中')}</p><div class="row-facts"><span>広さ：${esc(x.size||'未確認')}</span><span>定員：${esc(x.capacity||'未確認')}</span></div><div class="row-bottom"><div class="tags">${tags(x)}</div><button data-add="${x.id}" aria-label="${esc(x.name)}を${selected.includes(x.id)?'行き先候補から外す':'行き先候補に追加'}">${compareLabel(x.id)}</button></div></article>`).join(''):'<p class="empty">条件に合う施設がありません。<br>地域や判定を変更して探してみてください。</p>';
  if(group){group.clearLayers();markers=new Map();rows.forEach(x=>{if(x.location.status!=='verified')return;const m=L.marker([x.location.lat,x.location.lng],{title:x.name,icon:L.divIcon({className:`marker-pin ${x.status} ${active===x.id?'active':''}`,html:`<span aria-hidden="true">⛺</span>${x.visited?'<small>✓</small>':''}`,iconSize:[28,28]})}).on('add',()=>m.getElement()?.setAttribute('aria-label',x.name)).on('click',()=>openDetail(x.id));group.addLayer(m);markers.set(x.id,m);});}
  document.querySelectorAll('[data-status]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.status===filters.status)));
  $('compare-count').textContent=`${selected.length} / 3`;
@@ -49,7 +53,7 @@ function openDetail(id){
  if(map&&x.location.status==='verified'){map.setView([x.location.lat,x.location.lng],Math.max(map.getZoom(),11));}
  const geo=x.location.status==='verified';
  const dest=encodeURIComponent(`${x.name} ${x.address}`);
- $('detail-body').innerHTML=`<div class="tags">${tags(x)}</div><h2 id="detail-title">${esc(x.name)}</h2><p class="address">${esc(x.address)}</p><p class="prose">${esc(x.addressNote)}</p>${photo(x)}<div class="detail-facts"><div><small>使う区画・エリア</small>${esc(x.site||'未確認')}</div><div><small>広さ / 定員</small>${esc(x.size||'未確認')}<br>${esc(x.capacity||'未確認')}</div><div><small>家族5人</small>${esc(x.family)}</div><div><small>ランドロック</small>${esc(x.landlock)}</div></div><h3>候補の判断根拠</h3><p class="prose">${esc(x.reason)}</p><h3>利用前に確認すること</h3><p class="prose">${esc(x.note||'最新の利用条件を施設でご確認ください。')}</p><div class="detail-links">${href(x.official,'公式サイト')}${href(x.booking,'なっぷ')}${href('https://www.google.com/maps/dir/?api=1&destination='+dest,'経路案内')}</div><button class="primary detail-action" data-add="${x.id}">${compareLabel(x.id)}</button><details class="sources"><summary>情報の確認日・出典</summary><p>条件の資料確認日：${esc(x.checked)}<br>再判定：${esc(x.reassessed)}<br>位置：${geo?'施設掲載位置を確認':'未確認'} ${esc(x.location.checked)}<br>${esc(x.location.note)}</p>${x.sources.map((s,i)=>href(s,'判定の出典 '+(i+1))).join('')}${href(x.addressSource,'住所の出典')}${href(x.location.source,'位置の出典')}</details>`;
+ $('detail-body').innerHTML=`<div class="tags">${tags(x)}</div><h2 id="detail-title">${esc(x.name)}</h2><p class="address">${esc(x.address)}</p><p class="prose">${esc(x.addressNote)}</p>${intro(x,true)}${photo(x)}<div class="detail-facts"><div><small>使う区画・エリア</small>${esc(x.site||'未確認')}</div><div><small>広さ / 定員</small>${esc(x.size||'未確認')}<br>${esc(x.capacity||'未確認')}</div><div><small>家族5人</small>${esc(x.family)}</div><div><small>ランドロック</small>${esc(x.landlock)}</div></div><h3>候補の判断根拠</h3><p class="prose">${esc(x.reason)}</p><h3>利用前に確認すること</h3><p class="prose">${esc(x.note||'最新の利用条件を施設でご確認ください。')}</p><div class="detail-links">${href(x.official,'公式サイト')}${href(x.booking,'なっぷ')}${href('https://www.google.com/maps/dir/?api=1&destination='+dest,'経路案内')}</div><button class="primary detail-action" data-add="${x.id}">${compareLabel(x.id)}</button><details class="sources"><summary>情報の確認日・出典</summary><p>条件の資料確認日：${esc(x.checked)}<br>再判定：${esc(x.reassessed)}<br>位置：${geo?'施設掲載位置を確認':'未確認'} ${esc(x.location.checked)}<br>${esc(x.location.note)}</p>${x.sources.map((s,i)=>href(s,'判定の出典 '+(i+1))).join('')}${href(x.addressSource,'住所の出典')}${href(x.location.source,'位置の出典')}</details>`;
  if(!$('detail').open)$('detail').showModal();
 }
 function syncHash(){history.replaceState(null,'',selected.length?shareHash(selected):location.pathname+location.search);}
@@ -61,7 +65,7 @@ function add(id){
 }
 function drawComparison(){
  const camps=selected.map(id=>data.find(x=>x.id===id));
- const fields=[['判定',x=>statuses[x.status]+(x.visited?' / 訪問済み':'')],['住所',x=>x.address],['使う区画',x=>x.site],['広さ',x=>x.size],['人数条件',x=>x.capacity+' / '+x.family],['ランドロック',x=>x.landlock],['判断根拠',x=>x.reason],['注意事項',x=>x.note],['確認日',x=>x.checked]];
+ const fields=[['どんなキャンプ場？',x=>intros[x.id]?.text||'紹介を確認中'],['判定',x=>statuses[x.status]+(x.visited?' / 訪問済み':'')],['住所',x=>x.address],['使う区画',x=>x.site],['広さ',x=>x.size],['人数条件',x=>x.capacity+' / '+x.family],['ランドロック',x=>x.landlock],['判断根拠',x=>x.reason],['注意事項',x=>x.note],['確認日',x=>x.checked]];
  $('comparison-body').innerHTML=camps.length?`<table><thead><tr><th scope="col">比較項目</th>${camps.map(x=>`<th scope="col">${esc(x.name)}<button data-add="${x.id}">${esc(x.name)}を外す</button></th>`).join('')}</tr></thead><tbody>${fields.map(([label,fn])=>`<tr><th scope="row">${label}</th>${camps.map(x=>`<td>${esc(fn(x)||'未確認')}</td>`).join('')}</tr>`).join('')}<tr><th scope="row">施設リンク</th>${camps.map(x=>`<td>${href(x.official,'公式サイト')}<br>${href(x.booking,'なっぷ')}</td>`).join('')}</tr></tbody></table>`:'<p class="empty">一覧や施設詳細から、比較したいキャンプ場を追加してください。</p>';
  $('share').disabled=!selected.length;$('copy-fallback').hidden=true;
 }
@@ -81,5 +85,6 @@ try{
  $('statuses').innerHTML=Object.entries(statuses).map(([key,label])=>`<button data-status="${key}" aria-pressed="${key==='A'}">${label}<span>${data.filter(x=>x.status===key).length}</span></button>`).join('')+'<button data-status="" aria-pressed="false">すべて<span>346</span></button>';
  $('updated').textContent='データ更新 '+payload.updated;
  selected=restore(location.hash,data);makeMap();draw();fit();if(selected.length)openComparison();
+ fetch('./intros.json').then(r=>r.ok?r.json():{}).then(p=>{intros=p;draw();if($('detail').open)openDetail(active);if($('comparison').open)drawComparison();}).catch(()=>{});
  fetch('./photos.json').then(r=>r.ok?r.json():{}).then(p=>{photos=p;draw();if($('detail').open)openDetail(active);}).catch(()=>{});
 }catch(e){$('result-count').textContent='データを読み込めませんでした';$('list').innerHTML='<p class="empty">通信状況を確認し、ページを再読み込みしてください。</p>';}

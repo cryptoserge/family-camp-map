@@ -37,3 +37,9 @@ test('discovery respects filters and only includes suitable candidates',async()=
  assert.equal(discover(camps,{status:''},()=>0).id,discoveryCandidates(camps,{status:''})[0].id);
  assert.equal(discover(camps,{status:''},()=>.999999).id,discoveryCandidates(camps,{status:''}).at(-1).id);
 });
+
+test('each facility has a concise introduction with a source',()=>{
+ const intros=JSON.parse(readFileSync(new URL('../public/intros.json',import.meta.url)));
+ assert.deepEqual(Object.keys(intros).sort(),camps.map(x=>x.id).sort());
+ for(const x of camps){const v=intros[x.id];assert.ok(v.text.length>=15&&v.text.length<=120,x.id);assert.ok(safeUrl(v.source),x.id);assert.match(v.checked,/^\d{4}-\d{2}-\d{2}$/);}
+});

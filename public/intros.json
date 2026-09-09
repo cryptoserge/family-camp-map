@@ -1,0 +1,1732 @@
+{
+  "C001": {
+    "text": "キャンプに加えて、グランピングや日帰りBBQも選べる美浜の複合施設。アウトドアを気軽に楽しむ休日に。",
+    "source": "https://www.nap-camp.com/aichi/14972",
+    "checked": "2026-09-10"
+  },
+  "C002": {
+    "text": "組数を絞った小さなキャンプ場。身近な自然の中で、プライベート感を大切に過ごせます。",
+    "source": "https://www.nap-camp.com/aichi/14482",
+    "checked": "2026-09-10"
+  },
+  "C003": {
+    "text": "吉良ワイキキビーチが目の前。海を眺めるキャンプに、SUP体験や周辺の日帰り温泉を組み合わせられます。",
+    "source": "https://www.nap-camp.com/aichi/16413",
+    "checked": "2026-09-10"
+  },
+  "C004": {
+    "text": "1日1組で使う貸切サイト。周りの利用者を気にせず、家族だけのペースで自然の中に滞在できます。",
+    "source": "https://www.nap-camp.com/aichi/16570",
+    "checked": "2026-09-10"
+  },
+  "C005": {
+    "text": "標高約410mの山あいにある、プライベート感を大切にしたキャンプ場。国道153号からアクセスしやすい立地です。",
+    "source": "https://www.nap-camp.com/aichi/15056",
+    "checked": "2026-09-10"
+  },
+  "C006": {
+    "text": "子どもと犬が楽しめる「お庭」がテーマ。BBQや車中泊を楽しむ遊び場です。",
+    "source": "https://www.nap-camp.com/aichi/16550",
+    "checked": "2026-09-10"
+  },
+  "C007": {
+    "text": "貸切で使えるドッグランとキャンプサイト。犬と一緒に、名古屋近郊でのんびり過ごしたいときに。",
+    "source": "https://www.nap-camp.com/aichi/14854",
+    "checked": "2026-09-10"
+  },
+  "C008": {
+    "text": "海がすぐ目の前の小さなキャンプ場。海の景色を楽しみながら、釣りやSUPも選べます。",
+    "source": "https://www.instagram.com/crazyonfleek_jpn/",
+    "checked": "2026-09-09"
+  },
+  "C009": {
+    "text": "男川の源流となる渓谷沿いで、川遊びやマス釣りを楽しめます。バンガローやコテージもある施設です。",
+    "source": "https://www.nap-camp.com/aichi/10031",
+    "checked": "2026-09-09"
+  },
+  "C010": {
+    "text": "標高約800mの林間サイトで、木陰と渓流を楽しめます。暑い季節の水遊びも魅力です。",
+    "source": "https://www.nap-camp.com/aichi/10057",
+    "checked": "2026-09-10"
+  },
+  "C011": {
+    "text": "海辺の景色を楽しむシーサイドキャンプ。選ぶ区画からの海の見え方を比べたい施設です。",
+    "source": "https://www.nap-camp.com/aichi/14736",
+    "checked": "2026-09-10"
+  },
+  "C012": {
+    "text": "サイト同士の間隔を取った小規模な施設。静かに過ごすキャンプや、バス釣りの拠点として案内されています。",
+    "source": "https://www.nap-camp.com/aichi/10048",
+    "checked": "2026-09-09"
+  },
+  "C013": {
+    "text": "水上デッキなど、ひと味違うアウトドア空間がある施設。利用エリアによって過ごし方が変わります。",
+    "source": "https://www.nap-camp.com/aichi/10034",
+    "checked": "2026-09-09"
+  },
+  "C014": {
+    "text": "海岸に隣接し、海を眺めて過ごせるキャンプ場。SUPや夏の海水浴、周辺の温泉も楽しみの候補に。",
+    "source": "https://www.nap-camp.com/aichi/16424",
+    "checked": "2026-09-10"
+  },
+  "C015": {
+    "text": "冷暖房のある空間を備えたアウトドア施設。天候や季節に合わせてBBQを楽しみたいときに。",
+    "source": "https://www.nap-camp.com/aichi/15740",
+    "checked": "2026-09-10"
+  },
+  "C016": {
+    "text": "静かに一人で過ごす時間を重視するソロ向け施設。家族キャンプの対象ではありません。",
+    "source": "https://www.nap-camp.com/aichi/16173",
+    "checked": "2026-09-10"
+  },
+  "C017": {
+    "text": "山に囲まれた穏やかな渓流沿い。子どもの川遊びに加え、トイレやシャワーの設備も選ぶポイントです。",
+    "source": "https://www.nap-camp.com/aichi/15951",
+    "checked": "2026-09-10"
+  },
+  "C018": {
+    "text": "鞍ヶ池のハイウェイオアシス内でアウトドアを楽しむ施設。公園での滞在と組み合わせやすい立地です。",
+    "source": "https://www.nap-camp.com/aichi/16409",
+    "checked": "2026-09-09"
+  },
+  "C019": {
+    "text": "伊勢湾を見渡すロケーション。海の眺めを楽しみながら、リゾート気分で過ごせる施設です。",
+    "source": "https://www.nap-camp.com/aichi/13743",
+    "checked": "2026-09-09"
+  },
+  "C020": {
+    "text": "三河湖のほとりで過ごすキャンプ。湖畔の自然や夜の星空を楽しみたい家族に。",
+    "source": "https://www.nap-camp.com/aichi/14590",
+    "checked": "2026-09-10"
+  },
+  "C021": {
+    "text": "森と清流で川遊びや魚のつかみ取りを楽しめます。お湯の出る炊事場も、家族キャンプにうれしい設備です。",
+    "source": "https://www.nap-camp.com/aichi/15875",
+    "checked": "2026-09-10"
+  },
+  "C022": {
+    "text": "豊根村の林間で過ごす、小規模なオートキャンプ場。ケビンもあり、近くの管理施設にはグラウンドやテニスコートがあります。",
+    "source": "https://www.nap-camp.com/aichi/16885",
+    "checked": "2026-09-10"
+  },
+  "C023": {
+    "text": "山に囲まれ、川遊びとBBQを楽しめます。電源やシャワーなどの設備もある小規模な施設です。",
+    "source": "https://www.nap-camp.com/aichi/10055",
+    "checked": "2026-09-09"
+  },
+  "C024": {
+    "text": "高原の自然を楽しむキャンプ場。検討区画は広々とした芝生で、開放感を重視したいときに。",
+    "source": "https://www.nap-camp.com/aichi/10051",
+    "checked": "2026-09-09"
+  },
+  "C025": {
+    "text": "足助の山あいで、自然に触れる体験を楽しむ施設。遊びながら五感を使う休日を過ごしたいときに。",
+    "source": "https://www.nap-camp.com/aichi/16798",
+    "checked": "2026-09-10"
+  },
+  "C026": {
+    "text": "海辺に近い松林のサイト。夏は海水浴とキャンプを組み合わせて楽しめます。",
+    "source": "https://www.nap-camp.com/aichi/10042",
+    "checked": "2026-09-09"
+  },
+  "C027": {
+    "text": "松林の中で過ごしながら、海岸へも歩いて行けます。海辺と木陰の両方を楽しむ滞在に。",
+    "source": "https://www.nap-camp.com/aichi/10043",
+    "checked": "2026-09-09"
+  },
+  "C028": {
+    "text": "標高約1,200mの茶臼山高原で過ごすキャンプ。高原の空気や風を感じる休日に。",
+    "source": "https://www.nap-camp.com/aichi/10058",
+    "checked": "2026-09-09"
+  },
+  "C029": {
+    "text": "ちびっこ広場や芝生広場とBBQを組み合わせられます。公園遊びを楽しむ日帰り向けです。",
+    "source": "https://www.nap-camp.com/aichi/10044",
+    "checked": "2026-09-09"
+  },
+  "C030": {
+    "text": "奥三河の星空に加え、川遊びや昆虫採集などの自然体験が魅力。体験の開催時期は確認して選べます。",
+    "source": "https://www.yozora-hoshi-camp.com/",
+    "checked": "2026-09-09"
+  },
+  "C031": {
+    "text": "自然のある公園内でキャンプ。周辺に買い物先があり、準備や買い足しのしやすさも魅力です。",
+    "source": "https://www.nap-camp.com/aichi/14803",
+    "checked": "2026-09-10"
+  },
+  "C032": {
+    "text": "子どもの自然体験や共同生活を目的とした教育施設。一般キャンプ場とは利用手続きが異なります。",
+    "source": "https://www.nap-camp.com/aichi/10045",
+    "checked": "2026-09-09"
+  },
+  "C033": {
+    "text": "鳥や虫の声、川の流れを身近に感じる自然の中の施設。屋外でゆったり過ごしたいときに。",
+    "source": "https://www.nap-camp.com/aichi/10037",
+    "checked": "2026-09-09"
+  },
+  "C034": {
+    "text": "白い砂浜のビーチで、海と夕日を楽しむキャンプ。海辺でゆっくり時間を過ごしたいときに。",
+    "source": "https://www.nap-camp.com/aichi/14188",
+    "checked": "2026-09-10"
+  },
+  "C035": {
+    "text": "伊良湖の海辺で、電気・水道・排水設備のある区画を利用できます。自然と設備の両方を重視する選び方に。",
+    "source": "https://sea-and-sun5128.my.canva.site/",
+    "checked": "2026-09-09"
+  },
+  "C036": {
+    "text": "自然遊びや乗り物、工作などを楽しめる大型の児童遊園内。子どもの遊びを中心に予定を組めます。",
+    "source": "https://www.nap-camp.com/aichi/10040",
+    "checked": "2026-09-09"
+  },
+  "C037": {
+    "text": "森と清流に囲まれ、ハイキングコースや展示館もあります。自然を歩いて楽しむキャンプに。",
+    "source": "https://www.nap-camp.com/aichi/10038",
+    "checked": "2026-09-09"
+  },
+  "C038": {
+    "text": "標高約650mの高原で、動物とのふれあいなどの体験ができます。家族の遊びも楽しみにできる施設です。",
+    "source": "https://www.nap-camp.com/aichi/10046",
+    "checked": "2026-09-09"
+  },
+  "C039": {
+    "text": "道樹山のふもとの静かな林間施設。東海自然歩道や周辺の散策路を歩く楽しみがあります。",
+    "source": "https://www.nap-camp.com/aichi/10036",
+    "checked": "2026-09-09"
+  },
+  "C040": {
+    "text": "木曽川沿いの広い芝生と桃太郎神社が特徴。春の桜や秋の紅葉など、季節の公園散策も楽しめます。",
+    "source": "https://www.nap-camp.com/aichi/10029",
+    "checked": "2026-09-09"
+  },
+  "C041": {
+    "text": "緑に囲まれ、小川もある市営キャンプ場。山あいでゆっくり過ごすスタイルです。",
+    "source": "https://www.nap-camp.com/aichi/10030",
+    "checked": "2026-09-09"
+  },
+  "C042": {
+    "text": "美浜町の海辺にあるキャンプ場。海のある風景を身近に過ごしたいときに。",
+    "source": "https://n8qt1.crayonsite.net/",
+    "checked": "2026-09-09"
+  },
+  "C043": {
+    "text": "芝生広場や展望塔のある野外活動施設。屋外活動や公園で過ごす時間を組み合わせられます。",
+    "source": "https://www.nap-camp.com/aichi/10039",
+    "checked": "2026-09-09"
+  },
+  "C044": {
+    "text": "山・川・森に恵まれた野外活動施設。キャンプやレクリエーションを通じて自然に触れられます。",
+    "source": "https://www.nap-camp.com/aichi/10033",
+    "checked": "2026-09-09"
+  },
+  "C045": {
+    "text": "伊勢湾に沈む夕日を楽しむRVステーション。車を拠点に海辺で過ごすスタイルです。",
+    "source": "https://www.nap-camp.com/aichi/16051",
+    "checked": "2026-09-09"
+  },
+  "C046": {
+    "text": "船旅も楽しみになる篠島のキャンプ場。島での滞在を含めて、普段と違う休日にできます。",
+    "source": "https://shinojima-kankou.com/",
+    "checked": "2026-09-09"
+  },
+  "C047": {
+    "text": "不動ヶ滝を中心に整備された園地。滝周辺の散策と、広場でのBBQやキャンプを組み合わせられます。",
+    "source": "https://www.nap-camp.com/aichi/10032",
+    "checked": "2026-09-09"
+  },
+  "C048": {
+    "text": "太平洋を望む表浜海岸の近くにある公園。海岸周辺の自然を楽しむ拠点になります。",
+    "source": "https://www.nap-camp.com/aichi/13947",
+    "checked": "2026-09-09"
+  },
+  "C049": {
+    "text": "広い敷地で奥三河の自然を楽しむ施設。自然の中で過ごすオートキャンプを重視する選び方に。",
+    "source": "https://www.nap-camp.com/aichi/10052",
+    "checked": "2026-09-09"
+  },
+  "C050": {
+    "text": "海のすぐそばで潮風と波音を楽しむ日帰り施設。泊まりではなく、海辺のデイキャンプ向けです。",
+    "source": "https://www.nap-camp.com/aichi/14228",
+    "checked": "2026-09-10"
+  },
+  "C051": {
+    "text": "地元食材のBBQを手ぶらで楽しむ施設。準備を軽くして、屋外で食事を楽しむ日に。",
+    "source": "https://www.denpark.jp/",
+    "checked": "2026-09-09"
+  },
+  "C052": {
+    "text": "南知多の海辺で過ごすグランピング。海を眺めながら、テントの設営とは違う気軽なアウトドアの休日を楽しめます。",
+    "source": "https://www.nap-camp.com/aichi/15887",
+    "checked": "2026-09-10"
+  },
+  "C053": {
+    "text": "川や森の眺めと、客室専用サウナを楽しむグランピング。魚のつかみ取りなど、設楽の自然にふれる体験も案内されています。",
+    "source": "https://en.glamping-aichi.com/",
+    "checked": "2026-09-10"
+  },
+  "C054": {
+    "text": "海を眺めながらBBQやキャンプを楽しむ施設。伊勢湾の夕景を休日の楽しみにできます。",
+    "source": "https://www.nap-camp.com/aichi/14098",
+    "checked": "2026-09-10"
+  },
+  "C055": {
+    "text": "木のぬくもりを感じるグランピング・BBQ施設。川遊びと自然体験を組み合わせられます。",
+    "source": "https://www.nap-camp.com/aichi/13959",
+    "checked": "2026-09-10"
+  },
+  "C056": {
+    "text": "犬と泊まれるドッグラン付きグランピング。天然温泉とBBQも合わせて楽しめる宿泊スタイルです。",
+    "source": "https://www.nap-camp.com/aichi/16033",
+    "checked": "2026-09-10"
+  },
+  "C057": {
+    "text": "閉鎖情報のある施設です。現在の行き先候補としては選ばず、記録として掲載しています。",
+    "source": "https://www.nap-camp.com/aichi/10049",
+    "checked": "2026-09-09"
+  },
+  "C058": {
+    "text": "茶臼山周辺の自然と渓流を楽しむ施設として紹介されています。営業状況は確認が必要です。",
+    "source": "https://www.nap-camp.com/aichi/10053",
+    "checked": "2026-09-09"
+  },
+  "C059": {
+    "text": "八曽の森で山歩きや川遊びを楽しめた施設ですが、閉鎖情報があります。現在の宿泊候補にはできません。",
+    "source": "https://www.nap-camp.com/aichi/10035",
+    "checked": "2026-09-09"
+  },
+  "C060": {
+    "text": "四輪駆動車のオフロードコースが特徴。アスレチックやBBQも組み合わせられる日帰り施設です。",
+    "source": "https://www.nap-camp.com/aichi/10047",
+    "checked": "2026-09-09"
+  },
+  "C061": {
+    "text": "星空観察に加え、マス釣りやパターゴルフも楽しめます。高原の自然の中で、遊びをいくつか選びたい家族に。",
+    "source": "https://www.nap-camp.com/aichi/10054",
+    "checked": "2026-09-10"
+  },
+  "C062": {
+    "text": "道具の準備を抑えて楽しむグランピング。手軽なアウトドア宿泊を重視する施設です。",
+    "source": "https://www.nap-camp.com/aichi/15731",
+    "checked": "2026-09-09"
+  },
+  "C063": {
+    "text": "三河湖の四季の景色を楽しむバンガロー村。湖畔で過ごす時間を中心にした滞在に。",
+    "source": "https://www.nap-camp.com/aichi/13519",
+    "checked": "2026-09-09"
+  },
+  "C064": {
+    "text": "伊勢湾を望む丘にあり、小野浦の白い砂浜も徒歩圏内。海辺の景色を楽しむバンガロー泊です。",
+    "source": "https://www.nap-camp.com/aichi/10041",
+    "checked": "2026-09-09"
+  },
+  "C065": {
+    "text": "大千瀬川のほとりで、木々に囲まれて過ごすバンガロー村。川のある自然を身近に感じられます。",
+    "source": "https://www.nap-camp.com/aichi/10056",
+    "checked": "2026-09-09"
+  },
+  "C066": {
+    "text": "バンガローやテント泊を選べる施設。周辺の釣りやハイキングも休日に組み合わせられます。",
+    "source": "https://www.nap-camp.com/aichi/10059",
+    "checked": "2026-09-09"
+  },
+  "C067": {
+    "text": "小野浦海水浴場の目の前。屋根付きのBBQスペースがあり、海辺での食事を楽しめます。",
+    "source": "https://www.nap-camp.com/aichi/13577",
+    "checked": "2026-09-10"
+  },
+  "C068": {
+    "text": "板取川のほとりで過ごすオートキャンプ。清流のある自然を身近に感じたいときに。",
+    "source": "https://www.nap-camp.com/gifu/10368",
+    "checked": "2026-09-09"
+  },
+  "C069": {
+    "text": "標高約1,000mの景色と天然温泉が魅力。レンタル用品もあり、装備を補いやすいキャンプ場です。",
+    "source": "https://www.nap-camp.com/gifu/10384",
+    "checked": "2026-09-10"
+  },
+  "C070": {
+    "text": "付知川上流の山々に囲まれたコテージ。キッチンなどの設備があり、付知峡の滝や遊歩道の散策も楽しめます。",
+    "source": "https://www.japan47go.travel/ja/detail/38203a6f-f265-4784-bbba-1007093c12b0",
+    "checked": "2026-09-09"
+  },
+  "C071": {
+    "text": "買い物先のある市街地へ出やすい貸切サイト。買い出しの便利さと、自分たちだけの滞在を両立できます。",
+    "source": "https://www.nap-camp.com/gifu/14664",
+    "checked": "2026-09-10"
+  },
+  "C072": {
+    "text": "スキー場のゲレンデを使う山岳キャンプ。標高約1,000mからの眺めと、広い芝生を楽しめます。",
+    "source": "https://www.dynaland.co.jp/camp/",
+    "checked": "2026-09-09"
+  },
+  "C073": {
+    "text": "板取川を目の前にした小さなキャンプ場。星空を見上げる透明テントが常設され、いつもと違う宿泊体験も選べます。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_9652.html",
+    "checked": "2026-09-10"
+  },
+  "C074": {
+    "text": "里山の自然に、貸切サウナと露天風呂を組み合わせるキャンプ。ゆっくり入浴する時間も楽しみにできます。",
+    "source": "https://www.nap-camp.com/gifu/16266",
+    "checked": "2026-09-10"
+  },
+  "C075": {
+    "text": "清流・長良川を眼下に過ごせるオートキャンプ場。川の景色を見ながら滞在したいときに。",
+    "source": "https://www.nap-camp.com/gifu/15103",
+    "checked": "2026-09-10"
+  },
+  "C076": {
+    "text": "1日1組で使う貸切空間。焚き火を囲んで、家族だけの時間をゆっくり楽しむスタイルです。",
+    "source": "http://www.hida-mountainside.jp",
+    "checked": "2026-09-09"
+  },
+  "C077": {
+    "text": "明野高原の大きなキャンプ施設。季節の体験やイベント、犬と泊まれるエリアなど選択肢があります。",
+    "source": "https://www.nap-camp.com/gifu/10377",
+    "checked": "2026-09-10"
+  },
+  "C078": {
+    "text": "標高約1,400mの高原から、乗鞍や御嶽山を望めます。山の眺めを主役にしたいキャンプに。",
+    "source": "https://www.nap-camp.com/gifu/15007",
+    "checked": "2026-09-10"
+  },
+  "C079": {
+    "text": "犬用の池やドッグラン、専用設備を備えるキャンプ場。犬と一緒に遊ぶ休日を考えるなら。",
+    "source": "https://www.nap-camp.com/gifu/10380",
+    "checked": "2026-09-10"
+  },
+  "C080": {
+    "text": "大きな木がつくる木陰で過ごす林間キャンプ。森の中の雰囲気を楽しみたいときに。",
+    "source": "https://www.nap-camp.com/gifu/14822",
+    "checked": "2026-09-10"
+  },
+  "C081": {
+    "text": "自然体験をテーマにした小さなアウトドア施設。検討エリアは開放的な芝生のキャンプスペースです。",
+    "source": "https://ov373.jp",
+    "checked": "2026-09-09"
+  },
+  "C082": {
+    "text": "川や遊具で遊べて、温泉施設も徒歩圏内。場内設備と周辺の便利さを重視する家族に。",
+    "source": "https://www.nap-camp.com/gifu/16530",
+    "checked": "2026-09-10"
+  },
+  "C083": {
+    "text": "伊自良湖の奥で、自然に囲まれてBBQを楽しむ施設。食材持ち込みのほか、手ぶらのコースも選べます。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_6115.html",
+    "checked": "2026-09-10"
+  },
+  "C084": {
+    "text": "アスレチック遊具と大きな芝生広場が魅力。子どもが体を動かして遊ぶ時間をつくれます。",
+    "source": "https://www.nap-camp.com/gifu/15870",
+    "checked": "2026-09-10"
+  },
+  "C085": {
+    "text": "木曽川を望む立地に貸切サウナ。川の景色と、ゆっくりくつろぐ時間を楽しむ施設です。",
+    "source": "https://www.nap-camp.com/gifu/16443",
+    "checked": "2026-09-10"
+  },
+  "C086": {
+    "text": "高原の広い敷地で遊び、隣接するささゆりの湯へ。夜は星空を眺める、温泉とキャンプを組み合わせたい日に向く場所です。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_6642.html",
+    "checked": "2026-09-10"
+  },
+  "C087": {
+    "text": "秋神川のせせらぎと源泉掛け流しの岩風呂温泉。川辺で過ごした後の入浴も楽しみになります。",
+    "source": "https://www.nap-camp.com/gifu/10423",
+    "checked": "2026-09-10"
+  },
+  "C088": {
+    "text": "林間に車を乗り入れて過ごせるキャンプ場。ツリーハウスのある森の体感パークも案内されています。",
+    "source": "https://www.nap-camp.com/gifu/14735",
+    "checked": "2026-09-10"
+  },
+  "C089": {
+    "text": "山の自然の中で、ハイキングやBBQを楽しめます。周辺の川遊びや釣りも組み合わせられる施設です。",
+    "source": "https://seseragicamp.com/",
+    "checked": "2026-09-09"
+  },
+  "C090": {
+    "text": "森のぬくもりと星空、自然体験が魅力。下呂温泉や飛騨高山への観光も組み合わせやすい立地です。",
+    "source": "https://www.nap-camp.com/gifu/10351",
+    "checked": "2026-09-10"
+  },
+  "C091": {
+    "text": "白樺林と北アルプスの眺めを楽しむ高原キャンプ。近くに天然温泉もあります。",
+    "source": "https://www.nap-camp.com/gifu/10460",
+    "checked": "2026-09-10"
+  },
+  "C092": {
+    "text": "設備を最小限に絞った、自然に近いキャンプ場。水場などの便利さより、野営らしさを楽しむスタイルです。",
+    "source": "https://hichisoucamp.wixsite.com/home",
+    "checked": "2026-09-09"
+  },
+  "C093": {
+    "text": "静かな農園の環境で、土のにおいや星空を楽しむキャンプ。にぎやかなレジャーより自然の中で過ごしたいときに。",
+    "source": "https://www.nap-camp.com/gifu/16011",
+    "checked": "2026-09-10"
+  },
+  "C094": {
+    "text": "貸切サイトやコテージなど、泊まり方を選べる施設。下呂温泉観光も組み合わせられます。",
+    "source": "https://www.nap-camp.com/gifu/10349",
+    "checked": "2026-09-10"
+  },
+  "C095": {
+    "text": "みぼろ湖畔で、湖の景色やカヤック・SUPを楽しめます。サウナを組み合わせる過ごし方もあります。",
+    "source": "https://www.nap-camp.com/gifu/10419",
+    "checked": "2026-09-10"
+  },
+  "C096": {
+    "text": "高原の開放感に、アクティビティを組み合わせるキャンプ。場内で遊ぶ時間も楽しみたい家族に。",
+    "source": "http://meihogreen.com/",
+    "checked": "2026-09-10"
+  },
+  "C097": {
+    "text": "キャンプと屋外アクティビティを楽しむ施設。リニューアル工事の案内があるため、利用できる内容を確認して選ぶ必要があります。",
+    "source": "https://energy-shirao.jp/",
+    "checked": "2026-09-09"
+  },
+  "C098": {
+    "text": "市街地で気軽にキャンプを体験できる施設。雨への備えや周辺の便利さを重視する選び方に。",
+    "source": "https://enanoki.com/base",
+    "checked": "2026-09-09"
+  },
+  "C099": {
+    "text": "二又川と乗鞍山麓の森に囲まれた広い場内。せせらぎや鳥の声を楽しむ林間キャンプです。",
+    "source": "https://www.nap-camp.com/gifu/10425",
+    "checked": "2026-09-10"
+  },
+  "C100": {
+    "text": "川遊びや山の散策に加え、釣りも楽しめます。水辺と森の遊びを組み合わせたい家族に。",
+    "source": "https://www.nap-camp.com/gifu/14990",
+    "checked": "2026-09-10"
+  },
+  "C101": {
+    "text": "グリーンスライダーなど子どもの遊び場が特徴。キャンプとコテージから泊まり方を選べます。",
+    "source": "https://www.nap-camp.com/gifu/10427",
+    "checked": "2026-09-09"
+  },
+  "C102": {
+    "text": "山あいの開放的なサイトと星空が魅力。コテージやバンガローもあり、泊まり方を選べます。",
+    "source": "https://www.nap-camp.com/gifu/10463",
+    "checked": "2026-09-09"
+  },
+  "C103": {
+    "text": "トイファクトリーのオーナー向け会員制施設。キャンピングカーでの滞在を楽しむためのキャンプ場です。",
+    "source": "https://www.nap-camp.com/gifu/13840",
+    "checked": "2026-09-10"
+  },
+  "C104": {
+    "text": "1日1組の貸切キャンプ。家族や仲間だけで、周りを気にせず過ごせます。",
+    "source": "https://www.nap-camp.com/gifu/14722",
+    "checked": "2026-09-09"
+  },
+  "C105": {
+    "text": "小川と山に囲まれた自然の中でキャンプ。あまごのつかみ取りなどの体験も案内されています。",
+    "source": "https://www.nap-camp.com/gifu/10363",
+    "checked": "2026-09-10"
+  },
+  "C106": {
+    "text": "屋根付きスペースで手ぶらBBQ。宿泊ではなく、日帰りで屋外の食事を楽しむ施設です。",
+    "source": "https://www.shikinomori-itadoribbq.jp/",
+    "checked": "2026-09-09"
+  },
+  "C107": {
+    "text": "根尾東谷川を望む自然豊かな立地。川の景色を眺めながら、ゆったり過ごしたいキャンプに。",
+    "source": "https://neo-camp.jp/",
+    "checked": "2026-09-09"
+  },
+  "C108": {
+    "text": "ルアー専用の管理釣り場でキャンプも楽しめます。釣りを中心に過ごす休日向けです。",
+    "source": "https://www.nap-camp.com/gifu/15025",
+    "checked": "2026-09-10"
+  },
+  "C109": {
+    "text": "キャンプ場を貸切で使えます。テントサウナや屋根のあるBBQスペースも楽しみの候補に。",
+    "source": "https://www.nap-camp.com/gifu/16376",
+    "checked": "2026-09-10"
+  },
+  "C110": {
+    "text": "森の中で、かまどや炭火を使う食事を楽しめます。焚き火とアウトドア料理を楽しみにしたいキャンプに。",
+    "source": "https://bo-mori.jimdofree.com/",
+    "checked": "2026-09-09"
+  },
+  "C111": {
+    "text": "木曽川沿いの草原と森から場所を選ぶフリーサイト。設備は最小限で、広い空や夕日を楽しむ滞在です。",
+    "source": "https://www.nap-camp.com/gifu/16906",
+    "checked": "2026-09-10"
+  },
+  "C112": {
+    "text": "板取川の清流と緑に囲まれ、川辺でBBQを楽しめる場所。食材の配達や道具のレンタルも案内されています。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_7640.html",
+    "checked": "2026-09-10"
+  },
+  "C113": {
+    "text": "阿木川の自然にふれ、カヌーやパターゴルフ、そば打ち体験も楽しめる公園。湖を眺めながらのBBQも魅力です。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_5294.html",
+    "checked": "2026-09-10"
+  },
+  "C114": {
+    "text": "竜神の滝と渓谷、森の景色が魅力。散策や川遊び、夜の焚き火や星空を楽しめます。",
+    "source": "https://www.nap-camp.com/gifu/10440",
+    "checked": "2026-09-10"
+  },
+  "C115": {
+    "text": "吊り橋を渡るところから気分が変わる、付知峡のキャンプ場。渓谷の自然を身近に感じる休日に。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_6584.html",
+    "checked": "2026-09-10"
+  },
+  "C116": {
+    "text": "付知川の清流と森に囲まれたオートキャンプ場。渓流釣りや川遊びを楽しみたいときに。",
+    "source": "https://www.nap-camp.com/gifu/10451/map",
+    "checked": "2026-09-09"
+  },
+  "C117": {
+    "text": "付知峡の松林にバンガローが点在するキャンプ場。木々に囲まれて過ごしたい人の候補になります。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_6586.html",
+    "checked": "2026-09-10"
+  },
+  "C118": {
+    "text": "場内を付知川が流れ、吊り橋と裏木曽の山々が迎えるキャンプ場。川遊びや露天風呂も案内されています。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_6611.html",
+    "checked": "2026-09-10"
+  },
+  "C119": {
+    "text": "標高約900mで、自然と星空を楽しむキャンプ。検討エリアは芝生のフリーサイトです。",
+    "source": "https://www.nap-camp.com/gifu/10399",
+    "checked": "2026-09-10"
+  },
+  "C120": {
+    "text": "遊具とツリーハウス型のバンガローが特徴。子どもの冒険気分を楽しめる施設です。",
+    "source": "https://www.nap-camp.com/gifu/10374",
+    "checked": "2026-09-09"
+  },
+  "C121": {
+    "text": "清流・長良川に面したロケーション。川の景色を身近に感じながら滞在できます。",
+    "source": "https://www.nap-camp.com/gifu/13907",
+    "checked": "2026-09-09"
+  },
+  "C122": {
+    "text": "コナラなどの広葉樹に囲まれた森。木々の季節の変化を感じながら、ゆっくり過ごせます。",
+    "source": "https://www.nap-camp.com/gifu/10393",
+    "checked": "2026-09-10"
+  },
+  "C123": {
+    "text": "和良川に沿ったキャンプ場で、川遊びが魅力。遊んだ後には場内のシャワーを利用できます。",
+    "source": "https://www.nap-camp.com/gifu/10394",
+    "checked": "2026-09-09"
+  },
+  "C124": {
+    "text": "ファミリー専用サイトが用意されたキャンプ場。家族向けのエリアで過ごしたいときの選択肢です。",
+    "source": "https://www.nap-camp.com/gifu/10450",
+    "checked": "2026-09-09"
+  },
+  "C125": {
+    "text": "区画に縛られず場所を選ぶフリーサイト。自分たちのレイアウトで過ごしたいキャンプに。",
+    "source": "https://www.nap-camp.com/gifu/10470",
+    "checked": "2026-09-09"
+  },
+  "C126": {
+    "text": "標高の高い森で楽しむ野営スタイル。整ったリゾートより、森の中の滞在そのものを味わいたいときに。",
+    "source": "https://www.nap-camp.com/gifu/16270",
+    "checked": "2026-09-10"
+  },
+  "C127": {
+    "text": "山と川に囲まれた広い敷地でBBQを楽しめます。周辺の川遊びや温泉も組み合わせられます。",
+    "source": "https://iko-yo.net/facilities/157134",
+    "checked": "2026-09-09"
+  },
+  "C128": {
+    "text": "場内から天蓋山の登山道につながります。山歩きや沢遊びを組み合わせるキャンプに。",
+    "source": "https://www.nap-camp.com/gifu/10459",
+    "checked": "2026-09-10"
+  },
+  "C129": {
+    "text": "高山市街から出やすく、温水シャワーやお湯の使える設備が充実。観光とキャンプを組み合わせやすい施設です。",
+    "source": "https://www.nap-camp.com/gifu/16174",
+    "checked": "2026-09-10"
+  },
+  "C130": {
+    "text": "奥飛騨の自然に囲まれた広いオートフリーサイト。徒歩圏内の温浴施設も楽しめます。",
+    "source": "https://www.nap-camp.com/gifu/10405",
+    "checked": "2026-09-10"
+  },
+  "C131": {
+    "text": "徳山ダムの湖を望む貸切空間。ソロ・デュオ限定で、家族5人向けではありません。",
+    "source": "https://www.nap-camp.com/gifu/16973",
+    "checked": "2026-09-10"
+  },
+  "C132": {
+    "text": "標高約550mの揖斐高原で過ごすキャンプ。高原の自然を身近に楽しめます。",
+    "source": "https://www.nap-camp.com/gifu/10475",
+    "checked": "2026-09-10"
+  },
+  "C133": {
+    "text": "城跡や古墳のある森を歩き、季節の花や紅葉を楽しめる公園。BBQテラスとコテージもあります。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_5524.html",
+    "checked": "2026-09-10"
+  },
+  "C134": {
+    "text": "キャンプやバンガロー泊に、家族風呂や貸切サウナを組み合わせられます。入浴も楽しみにしたいときに。",
+    "source": "https://www.nap-camp.com/gifu/15874",
+    "checked": "2026-09-10"
+  },
+  "C135": {
+    "text": "ログハウスやバンガロー、デッキサイトなど泊まり方を選べます。白鳥の市街地で買い出しをして向かいやすい立地です。",
+    "source": "https://www.nap-camp.com/gifu/16587",
+    "checked": "2026-09-10"
+  },
+  "C136": {
+    "text": "乗鞍岳・御嶽山やアルプスの山並みを楽しむロケーション。山の景色を重視したいキャンプに。",
+    "source": "https://www.nap-camp.com/gifu/10411",
+    "checked": "2026-09-10"
+  },
+  "C137": {
+    "text": "釣りやそば打ちなどの体験が豊富。遊具もあり、コテージ泊と子どもの遊びを組み合わせられます。",
+    "source": "https://www.nap-camp.com/gifu/10472",
+    "checked": "2026-09-10"
+  },
+  "C138": {
+    "text": "板取川を望むバンガローがある施設。川のせせらぎと、釣りや川遊びを楽しめます。",
+    "source": "https://www.nap-camp.com/gifu/10371",
+    "checked": "2026-09-09"
+  },
+  "C139": {
+    "text": "椛の湖の景色を楽しむ湖畔と、木々に囲まれる林間を選べます。秋は紅葉のある風景も楽しみに。",
+    "source": "https://hananoko-camp.jp/",
+    "checked": "2026-09-09"
+  },
+  "C140": {
+    "text": "広い芝生と濃尾平野の眺めが魅力。空の広さを感じながら、開放的に過ごせます。",
+    "source": "https://www.nap-camp.com/gifu/15687",
+    "checked": "2026-09-10"
+  },
+  "C141": {
+    "text": "清流のほとりで過ごす小さなキャンプ拠点。水辺の自然を身近に感じる滞在を楽しめます。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_9861.html",
+    "checked": "2026-09-09"
+  },
+  "C142": {
+    "text": "モンゴルの移動式住居「ゲル」に泊まれます。いつものテントとは違う宿泊体験が魅力です。",
+    "source": "https://www.nap-camp.com/gifu/10397",
+    "checked": "2026-09-09"
+  },
+  "C143": {
+    "text": "緑の中の整備されたサイトと付知川の清流が魅力。釣りや川遊びを組み合わせるキャンプに。",
+    "source": "https://www.nap-camp.com/gifu/10454",
+    "checked": "2026-09-09"
+  },
+  "C144": {
+    "text": "標高約1,000mの笠置山で過ごすベースキャンプ。街を離れ、山の自然を楽しみたいときに。",
+    "source": "https://www.nap-camp.com/gifu/14316",
+    "checked": "2026-09-10"
+  },
+  "C145": {
+    "text": "川沿いで鳥の声を聞きながら過ごす、自然に囲まれた体験村。テント泊のほか、バンガローやBBQも選べます。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_1177.html",
+    "checked": "2026-09-10"
+  },
+  "C146": {
+    "text": "キャンプと川の水遊びを組み合わせられる施設。夏の水辺の遊びも楽しみにでき、利用可否は当日の案内で確認できます。",
+    "source": "https://www.nap-camp.com/gifu/10361",
+    "checked": "2026-09-10"
+  },
+  "C147": {
+    "text": "御嶽山中腹、標高約1,850mの森で過ごせます。原生林のテント泊や、設備のあるコテージを選べます。",
+    "source": "https://www.nap-camp.com/gifu/10422",
+    "checked": "2026-09-10"
+  },
+  "C148": {
+    "text": "夜の星空を楽しみにできる小規模なオートキャンプ場。空を見上げながらゆっくり過ごす滞在に。",
+    "source": "https://www.nap-camp.com/gifu/15664",
+    "checked": "2026-09-10"
+  },
+  "C149": {
+    "text": "林間学校などの野外研修にも使われる施設。自然体験活動を選べ、初心者家族向けの案内もあります。",
+    "source": "http://www.shizenen.com/",
+    "checked": "2026-09-09"
+  },
+  "C150": {
+    "text": "里山の雰囲気と、お湯の出る炊事場・温水シャワーなどの設備が魅力。便利さも重視するキャンプに。",
+    "source": "https://www.nap-camp.com/gifu/16548",
+    "checked": "2026-09-10"
+  },
+  "C151": {
+    "text": "水遊び場やBBQに加え、染め物体験も楽しめる山あいの施設。コテージやバンガローもあり、遊び方を広げられます。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_6592.html",
+    "checked": "2026-09-10"
+  },
+  "C152": {
+    "text": "清流・白川と山あいの星空を楽しむ小規模な施設。静かに過ごすことを大切にするキャンプ場です。",
+    "source": "https://www.nap-camp.com/gifu/10359",
+    "checked": "2026-09-10"
+  },
+  "C153": {
+    "text": "標高約1,500mの芝生サイトから乗鞍岳や御嶽山を望めます。山の眺めと高原の空気を楽しむキャンプに。",
+    "source": "https://www.nap-camp.com/gifu/10412",
+    "checked": "2026-09-10"
+  },
+  "C154": {
+    "text": "飛騨の市街地へ出やすく、周辺の渓流釣りや温泉も楽しめます。観光とキャンプの拠点に。",
+    "source": "https://www.nap-camp.com/gifu/10458",
+    "checked": "2026-09-10"
+  },
+  "C155": {
+    "text": "釣り堀で釣った魚を、その場で塩焼きにして楽しめます。森と渓流の中で、釣り体験もしたい家族に。",
+    "source": "https://www.nap-camp.com/gifu/14787",
+    "checked": "2026-09-10"
+  },
+  "C156": {
+    "text": "里山・高原の自然の中で、車を横付けして過ごせるフリーサイト。開放的なエリアを家族で楽しめます。",
+    "source": "https://www.nap-camp.com/gifu/10400",
+    "checked": "2026-09-10"
+  },
+  "C157": {
+    "text": "白川での川遊びや、山あいの星空を楽しめます。ゆっくり田舎の時間を過ごしたいときに。",
+    "source": "https://www.nap-camp.com/gifu/14443",
+    "checked": "2026-09-10"
+  },
+  "C158": {
+    "text": "鷲ヶ岳の山中で川や鳥の声を楽しめる施設として紹介されています。営業休止の記載があるため再開確認が必要です。",
+    "source": "https://www.nap-camp.com/gifu/13596",
+    "checked": "2026-09-10"
+  },
+  "C159": {
+    "text": "ゲレンデの広い景色と夜の星空が魅力。近くのホテルでの入浴や森林アスレチックも楽しみの候補に。",
+    "source": "https://www.nap-camp.com/gifu/14694",
+    "checked": "2026-09-10"
+  },
+  "C160": {
+    "text": "東白川村の景色を楽しむカフェと、キャンプ・グランピングが集まるリゾート。昼は眺望、夜は星空を楽しむ休日に。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_9953.html",
+    "checked": "2026-09-10"
+  },
+  "C161": {
+    "text": "飛騨観光に組み合わせやすく、共同設備の快適さを重視した施設。晴れた夜の星空も楽しみになります。",
+    "source": "https://www.nap-camp.com/gifu/14337",
+    "checked": "2026-09-10"
+  },
+  "C162": {
+    "text": "川のせせらぎと山の自然の中で、ログハウスやドームに泊まる施設。持ち込みテントとは違う宿泊スタイルです。",
+    "source": "https://forestdome-tsukechi.com/",
+    "checked": "2026-09-09"
+  },
+  "C163": {
+    "text": "濃尾平野の眺めと夜景を楽しめます。お湯の出る炊事場やシャワーもあり、景色と設備を両立したい家族に。",
+    "source": "https://www.nap-camp.com/gifu/10476",
+    "checked": "2026-09-10"
+  },
+  "C164": {
+    "text": "谷汲の自然を望む、3棟のプライベートヴィラ。温泉や、庭で星を眺めながらの焚き火を楽しむ滞在に。",
+    "source": "https://tef-tanigumi.jp/about/",
+    "checked": "2026-09-10"
+  },
+  "C165": {
+    "text": "田園風景の中で、海津温泉と組み合わせて過ごすグランピング。お風呂でくつろぐ時間も大切にしたい日に。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_9161.html",
+    "checked": "2026-09-10"
+  },
+  "C166": {
+    "text": "客室ごとのジャグジーやファイヤーピットが特徴のグランピング。ドームやヴィラなど、宿泊スタイルを選べます。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_8917.html",
+    "checked": "2026-09-10"
+  },
+  "C167": {
+    "text": "ひるがの高原でコテージやグランピングを選べます。手ぶらBBQや飛騨観光も組み合わせられます。",
+    "source": "https://www.nap-camp.com/gifu/14119",
+    "checked": "2026-09-10"
+  },
+  "C168": {
+    "text": "標高約900mの湖畔で楽しむグランピング。カヌーやSUP、焚き火など、湖と森での体験が魅力です。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_8220.html",
+    "checked": "2026-09-10"
+  },
+  "C169": {
+    "text": "ひるがの高原の自然に囲まれた貸別荘。星空を眺めてくつろぐ滞在に向き、愛犬と泊まれるログハウスもあります。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_3576.html",
+    "checked": "2026-09-10"
+  },
+  "C170": {
+    "text": "川沿いに立つ、木のメゾネットコテージ。冬には薪ストーブも楽しめる、建物でゆっくり過ごす休日の選択肢です。",
+    "source": "https://www.kankou-gifu.jp/spot/detail_6641.html",
+    "checked": "2026-09-10"
+  },
+  "C171": {
+    "text": "瑞浪の高台で過ごすグランピング施設。遊具やドッグランがあり、屋外で遊ぶ時間も組み合わせられます。",
+    "source": "https://www.nap-camp.com/gifu/16192",
+    "checked": "2026-09-10"
+  },
+  "C172": {
+    "text": "組数を絞った川沿いのキャンプ場。川遊びや、季節によってはホタルを楽しむ滞在に。",
+    "source": "https://www.nap-camp.com/mie/14764",
+    "checked": "2026-09-10"
+  },
+  "C173": {
+    "text": "あづり浜が目の前で、海と夜の星空を楽しめます。海辺の景色を主役にしたいキャンプに。",
+    "source": "https://www.nap-camp.com/mie/14752",
+    "checked": "2026-09-10"
+  },
+  "C174": {
+    "text": "天然温泉が徒歩圏内にあるキャンプリゾート。設備の便利さと入浴を楽しみたい家族に。",
+    "source": "https://www.nap-camp.com/mie/14975",
+    "checked": "2026-09-10"
+  },
+  "C175": {
+    "text": "海と山の自然の中で、グランピングやBBQ、カフェを楽しむリゾート。食事と宿泊を気軽に組み合わせられます。",
+    "source": "https://www.nap-camp.com/mie/14042",
+    "checked": "2026-09-10"
+  },
+  "C176": {
+    "text": "御座白浜海水浴場に隣接したグランピング施設。白い砂浜の海辺で過ごす宿泊体験です。",
+    "source": "https://www.kankomie.or.jp/spot/23846",
+    "checked": "2026-09-09"
+  },
+  "C177": {
+    "text": "初心者やファミリーの利用を案内するキャンプ場。広めの区画で、家族のキャンプを楽しめます。",
+    "source": "https://www.nap-camp.com/mie/11093",
+    "checked": "2026-09-10"
+  },
+  "C178": {
+    "text": "全区画で犬をリードから放して過ごせ、ドッグランもあります。愛犬との休日を中心に考えるなら。",
+    "source": "https://www.nap-camp.com/mie/16142",
+    "checked": "2026-09-10"
+  },
+  "C179": {
+    "text": "竜ヶ岳のふもとの自然に包まれるフリーサイト。山の景色と野外で過ごす時間を楽しめます。",
+    "source": "https://www.nap-camp.com/mie/15794",
+    "checked": "2026-09-10"
+  },
+  "C180": {
+    "text": "木津川のほとりにある伊賀のオートキャンプ場。川の風景を身近に過ごしたい家族に。",
+    "source": "https://www.nap-camp.com/mie/11050",
+    "checked": "2026-09-10"
+  },
+  "C181": {
+    "text": "海が目の前の一棟貸切施設。家族や仲間だけで、海を眺めながらゆっくり滞在できます。",
+    "source": "https://www.nap-camp.com/mie/14469",
+    "checked": "2026-09-10"
+  },
+  "C182": {
+    "text": "自然に近いシンプルなキャンプ場。近くの民泊とテント泊に分かれて滞在する選び方もできます。",
+    "source": "https://www.nap-camp.com/mie/15658",
+    "checked": "2026-09-09"
+  },
+  "C183": {
+    "text": "海岸近くの森に置かれたヨットで泊まる、ユニークなグランピング。甲板から星空を眺める楽しみもあります。",
+    "source": "https://www.kankomie.or.jp/spot/23889",
+    "checked": "2026-09-10"
+  },
+  "C184": {
+    "text": "大内山川沿いで、水辺の遊びを楽しむ施設。カヤックやSUP、川の四季の景色が魅力です。",
+    "source": "https://www.nap-camp.com/mie/16720",
+    "checked": "2026-09-09"
+  },
+  "C185": {
+    "text": "川の音や星空を楽しむ自然の中のキャンプ場。屋外でゆっくり過ごしたいときに。",
+    "source": "https://www.nap-camp.com/mie/11103",
+    "checked": "2026-09-10"
+  },
+  "C186": {
+    "text": "尾鷲の海と山々を見渡す高台。海・里山の食材を使うBBQや体験も楽しみになります。",
+    "source": "https://www.nap-camp.com/mie/15781",
+    "checked": "2026-09-10"
+  },
+  "C187": {
+    "text": "温泉施設に隣接し、アスレチックや体験教室もあります。遊びと入浴を一緒に楽しみたい家族に。",
+    "source": "https://www.nap-camp.com/mie/14950",
+    "checked": "2026-09-10"
+  },
+  "C188": {
+    "text": "アメリカンな雰囲気のアウトドアリゾート。芝生のフリーサイトで、リゾート気分のキャンプを楽しめます。",
+    "source": "https://www.nap-camp.com/mie/16242",
+    "checked": "2026-09-10"
+  },
+  "C189": {
+    "text": "銚子川の清流や熊野古道、海辺の観光を組み合わせられます。水辺と山の両方を楽しむ拠点に。",
+    "source": "https://www.nap-camp.com/mie/11107",
+    "checked": "2026-09-10"
+  },
+  "C190": {
+    "text": "天体観測施設やパターゴルフ場を備える施設。キャンプと星空観察を組み合わせる休日に。",
+    "source": "https://www.info.city.tsu.mie.jp/kankou_bunka_sports/kankou_citypromotion/1010921/1004536/1004538.html",
+    "checked": "2026-09-09"
+  },
+  "C191": {
+    "text": "1日1組の貸切で、湖を見渡すテラスも使えます。家族や仲間だけで広い自然の中に滞在できます。",
+    "source": "https://www.nap-camp.com/mie/15785",
+    "checked": "2026-09-10"
+  },
+  "C192": {
+    "text": "グランピングなどの宿泊スタイルで、伊勢志摩のアウトドアを楽しむ施設。テント持ち込みとは別の選択肢もあります。",
+    "source": "http://www.everglades.jp/",
+    "checked": "2026-09-09"
+  },
+  "C193": {
+    "text": "海を目前に望む、専用ドッグラン付きのヴィラ。愛犬と過ごしながら、室内や屋根付きテラスから海を楽しめます。",
+    "source": "https://www.iseshima-kanko.jp/stay/121423",
+    "checked": "2026-09-10"
+  },
+  "C194": {
+    "text": "伊勢神宮や伊勢志摩観光の拠点にしやすい施設。犬と泊まれるサイトも用意されています。",
+    "source": "https://www.nap-camp.com/mie/16760",
+    "checked": "2026-09-10"
+  },
+  "C195": {
+    "text": "渓谷の清流と自然の風景を楽しむキャンプ場。水の流れを身近に感じながら過ごせます。",
+    "source": "https://www.nap-camp.com/mie/11066",
+    "checked": "2026-09-09"
+  },
+  "C196": {
+    "text": "海岸沿いに車を乗り入れて過ごせます。夏の海水浴や釣りの拠点として楽しむキャンプに。",
+    "source": "https://www.nap-camp.com/mie/11109",
+    "checked": "2026-09-09"
+  },
+  "C197": {
+    "text": "広めの区画でゆったり過ごすスタイル。犬と一緒にキャンプを楽しむこともできます。",
+    "source": "https://www.nap-camp.com/mie/16171",
+    "checked": "2026-09-10"
+  },
+  "C198": {
+    "text": "動物園やスワンボートのある複合レジャー施設。キャンプと子どもの遊びを一か所で組み合わせられます。",
+    "source": "https://www.nap-camp.com/mie/14008",
+    "checked": "2026-09-10"
+  },
+  "C199": {
+    "text": "海と白い砂浜、松林を楽しむロケーション。海辺でのんびり過ごすキャンプに。",
+    "source": "https://www.nap-camp.com/mie/11088",
+    "checked": "2026-09-10"
+  },
+  "C200": {
+    "text": "海辺のキャンプに、プールなどの遊びも組み合わせられます。子どもの遊びを楽しみにできる施設です。",
+    "source": "https://www.nap-camp.com/mie/11091",
+    "checked": "2026-09-09"
+  },
+  "C201": {
+    "text": "川遊びと温泉を一緒に楽しめます。奥伊勢の自然の中で、遊んだ後にくつろぐ休日に。",
+    "source": "https://www.nap-camp.com/mie/13905",
+    "checked": "2026-09-10"
+  },
+  "C202": {
+    "text": "垣根で区切られたオートサイトが特徴。プライベート感を保ちながら、海遊びの拠点にできます。",
+    "source": "https://www.nap-camp.com/mie/11111",
+    "checked": "2026-09-09"
+  },
+  "C203": {
+    "text": "木津川と伊賀の自然に囲まれた温泉施設のキャンプ場。入浴も楽しみにできます。",
+    "source": "https://www.nap-camp.com/mie/11049",
+    "checked": "2026-09-09"
+  },
+  "C204": {
+    "text": "伊勢志摩の海と食を楽しむキャンプ。海辺の滞在に、地域の味を組み合わせたいときに。",
+    "source": "https://shima-de-camp.com",
+    "checked": "2026-09-09"
+  },
+  "C205": {
+    "text": "鈴鹿の朝明渓谷にあるキャンプ場。渓谷の自然を身近に過ごせる立地です。",
+    "source": "https://www.nap-camp.com/mie/11059",
+    "checked": "2026-09-09"
+  },
+  "C206": {
+    "text": "日帰りBBQと、池のほとりや里山の散策を楽しめます。公園で過ごす休日向けです。",
+    "source": "https://www.kankomie.or.jp/season/article/41.html",
+    "checked": "2026-09-09"
+  },
+  "C207": {
+    "text": "運動公園で楽しむ日帰りキャンプ・BBQ。宿泊より、屋外で食事する休日向けです。",
+    "source": "https://www.nap-camp.com/mie/15662",
+    "checked": "2026-09-10"
+  },
+  "C208": {
+    "text": "清流と山に囲まれた自然の中の施設。水辺の景色を楽しみながら滞在できます。",
+    "source": "https://www.nap-camp.com/mie/11101",
+    "checked": "2026-09-09"
+  },
+  "C209": {
+    "text": "大きめのオートサイトや林間サイトを選べます。伊勢観光とキャンプを組み合わせやすい立地です。",
+    "source": "https://www.nap-camp.com/mie/16022",
+    "checked": "2026-09-10"
+  },
+  "C210": {
+    "text": "奥伊勢の静かな森にある小規模な施設。コテージとテントから泊まり方を選べます。",
+    "source": "https://www.nap-camp.com/mie/11104",
+    "checked": "2026-09-10"
+  },
+  "C211": {
+    "text": "遊園地とキャンプを組み合わせられる施設。子どもが遊ぶ予定を立てやすいのが魅力です。",
+    "source": "https://www.nap-camp.com/mie/13917",
+    "checked": "2026-09-10"
+  },
+  "C212": {
+    "text": "高さ約30mの飛雪の滝が目の前。滝の景色に加え、季節に応じた水遊びやサウナ体験も楽しめます。",
+    "source": "https://www.nap-camp.com/mie/14046",
+    "checked": "2026-09-10"
+  },
+  "C213": {
+    "text": "御在所山のふもとで、ハイキングやロープウェー観光を組み合わせられます。紅葉や湯の山温泉も楽しみに。",
+    "source": "https://www.nap-camp.com/mie/11060",
+    "checked": "2026-09-09"
+  },
+  "C214": {
+    "text": "フェンスで囲まれたドッグラン兼用サイトが特徴。犬と一緒にのびのび過ごすキャンプ向けです。",
+    "source": "https://www.nap-camp.com/mie/16729",
+    "checked": "2026-09-10"
+  },
+  "C215": {
+    "text": "冷暖房付きのドームに泊まるグランピング施設。遊具のあるエリアもあり、宿泊と遊びを組み合わせられます。",
+    "source": "https://www.iseshima-kanko.jp/stay/121424",
+    "checked": "2026-09-09"
+  },
+  "C216": {
+    "text": "英虞湾を眺める独立した棟で過ごすグランピング。海の景色を見ながら、ゆっくり滞在するスタイルです。",
+    "source": "https://www.ise-glamping.com/",
+    "checked": "2026-09-09"
+  },
+  "C217": {
+    "text": "森と英虞湾の広いリゾートで、温泉やクルーズ、星空観察を楽しめます。テント泊以外の宿泊体験も選べます。",
+    "source": "https://www.kankomie.or.jp/spot/3105",
+    "checked": "2026-09-09"
+  },
+  "C218": {
+    "text": "子ども向けの遊びや体験、森林ヨガなどがあるキャンプ場。場内での楽しみを選びたい家族に。",
+    "source": "https://www.nap-camp.com/mie/14019",
+    "checked": "2026-09-10"
+  },
+  "C219": {
+    "text": "静かな複合宿泊施設で、伊勢観光の拠点にも。キャンプとバンガローから泊まり方を選べます。",
+    "source": "https://www.nap-camp.com/mie/14009",
+    "checked": "2026-09-10"
+  },
+  "C220": {
+    "text": "犬と楽しむドッグフリーのキャンプ場でしたが、閉鎖情報があります。現在の行き先候補にはできません。",
+    "source": "https://www.nap-camp.com/mie/14615",
+    "checked": "2026-09-10"
+  },
+  "C221": {
+    "text": "広く開放的な区画と整った場内設備が魅力。設備の使いやすさを重視するファミリーキャンプに。",
+    "source": "https://www.nap-camp.com/mie/11045",
+    "checked": "2026-09-10"
+  },
+  "C222": {
+    "text": "山と川の自然を身近に感じるキャンプ場。ファミリーで使える区画を選んで楽しむ施設です。",
+    "source": "https://www.nap-camp.com/shiga/15130",
+    "checked": "2026-09-10"
+  },
+  "C223": {
+    "text": "鈴鹿の山々を眺め、夜は星空を楽しむ自然体験型キャンプ場。家族でのアクティビティも楽しみにできる場所です。",
+    "source": "https://www.nap-camp.com/shiga/14798",
+    "checked": "2026-09-10"
+  },
+  "C224": {
+    "text": "信楽川と梅林の景色を楽しめます。水辺の自然を感じながら食事や休息を楽しむキャンプに。",
+    "source": "https://www.nap-camp.com/shiga/14604",
+    "checked": "2026-09-10"
+  },
+  "C225": {
+    "text": "琵琶湖が目の前の湖畔キャンプ。湖の眺めを重視して過ごしたいときに。",
+    "source": "https://shirahige-hama.com",
+    "checked": "2026-09-09"
+  },
+  "C226": {
+    "text": "白いフェンスに囲まれた小規模なキャンプ場。大きな施設とは違う、こぢんまりした滞在が特徴です。",
+    "source": "https://www.nap-camp.com/shiga/16912",
+    "checked": "2026-09-09"
+  },
+  "C227": {
+    "text": "町なかにあり、管理人が常駐するキャンプ場。管理体制を重視して選びたいときに。",
+    "source": "https://minori-camp.com/",
+    "checked": "2026-09-09"
+  },
+  "C228": {
+    "text": "広いオートサイトとバンガローを備えた施設。青土ダム周辺で、季節の自然を楽しむ滞在に。",
+    "source": "https://www.nap-camp.com/shiga/11374",
+    "checked": "2026-09-09"
+  },
+  "C229": {
+    "text": "金勝の山中で、鳥の声や星空にふれるキャンプ場。近隣のフォレストアドベンチャーと組み合わせる楽しみもあります。",
+    "source": "https://www.nap-camp.com/shiga/15682",
+    "checked": "2026-09-10"
+  },
+  "C230": {
+    "text": "比良の山々を望む林間キャンプ場。場内の人工河川での水遊びや、懐かしい雰囲気の駄菓子コーナーも魅力です。",
+    "source": "https://www.nap-camp.com/shiga/11394",
+    "checked": "2026-09-10"
+  },
+  "C231": {
+    "text": "スタッフが常駐し、初心者や家族の利用を案内しています。初めてのキャンプで相談しやすさを重視するなら。",
+    "source": "https://www.nap-camp.com/shiga/14510",
+    "checked": "2026-09-10"
+  },
+  "C232": {
+    "text": "自然のあるアットホームなキャンプ場。子どもの遊びを楽しみにできる施設です。",
+    "source": "https://www.nap-camp.com/shiga/16429",
+    "checked": "2026-09-10"
+  },
+  "C233": {
+    "text": "水辺の草花や鳥など、生き物の観察を楽しめる公園。自然を身近に感じながらキャンプを楽しめます。",
+    "source": "https://www.nap-camp.com/shiga/11392",
+    "checked": "2026-09-09"
+  },
+  "C234": {
+    "text": "アクティビティや体験を組み合わせられる総合アウトドア施設。キャンプ以外の遊びも楽しみたい家族に。",
+    "source": "https://www.nap-camp.com/shiga/11405",
+    "checked": "2026-09-10"
+  },
+  "C235": {
+    "text": "アメリカンな雰囲気のアウトドアリゾート。キャビンやグランピングなど、好みの泊まり方を選べます。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/30378/",
+    "checked": "2026-09-09"
+  },
+  "C236": {
+    "text": "子ども向けの遊具が充実した施設。キャンプと遊具遊びを組み合わせる休日に。",
+    "source": "https://www.nap-camp.com/shiga/11389",
+    "checked": "2026-09-10"
+  },
+  "C237": {
+    "text": "田園風景と比良山系を望むロケーション。夜の星空やライトアップも楽しめる宿泊施設です。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/30718/",
+    "checked": "2026-09-09"
+  },
+  "C238": {
+    "text": "長い滑り台やアスレチックで体を動かせます。キャンプと公園遊びの両方を楽しみたい家族に。",
+    "source": "https://www.nap-camp.com/shiga/11418",
+    "checked": "2026-09-10"
+  },
+  "C239": {
+    "text": "森の中で、宿泊やプール・スポーツを楽しむ複合施設。遊んだ後は「くつき温泉てんくう」で入浴できます。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/780/",
+    "checked": "2026-09-09"
+  },
+  "C240": {
+    "text": "整った区画から野趣のあるエリアまで、好みに合わせて選べます。里山で自分たちらしいキャンプを楽しむ施設です。",
+    "source": "https://www.nap-camp.com/shiga/14421",
+    "checked": "2026-09-10"
+  },
+  "C241": {
+    "text": "琵琶湖の白砂のビーチと松林が魅力。場所を指定して予約でき、眺めや過ごし方で選べます。",
+    "source": "https://www.nap-camp.com/shiga/11382",
+    "checked": "2026-09-10"
+  },
+  "C242": {
+    "text": "白砂と松林、琵琶湖越しの比良山系が魅力。テニスや野鳥観察も楽しめる湖岸の施設です。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/1709/",
+    "checked": "2026-09-09"
+  },
+  "C243": {
+    "text": "琵琶湖の眺めと松林を楽しめます。SUPやカヤックなど、水辺の体験も休日の候補に。",
+    "source": "https://www.nap-camp.com/shiga/11383",
+    "checked": "2026-09-10"
+  },
+  "C244": {
+    "text": "源泉掛け流しの温泉がある宿泊施設。近江舞子の湖水浴や比良山の登山と組み合わせられます。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/27941/",
+    "checked": "2026-09-09"
+  },
+  "C245": {
+    "text": "琵琶湖の景色に加え、シャワー付き区画などの設備が特徴。湖畔でも快適さを重視したいキャンプに。",
+    "source": "https://www.nap-camp.com/shiga/11419",
+    "checked": "2026-09-10"
+  },
+  "C246": {
+    "text": "琵琶湖を目の前に過ごすオートキャンプ。犬と利用できるドッグランもあります。",
+    "source": "https://www.nap-camp.com/shiga/11379",
+    "checked": "2026-09-09"
+  },
+  "C247": {
+    "text": "整備された場内で、湖畔の水遊びを楽しむキャンプ。琵琶湖のそばで過ごしたい家族に。",
+    "source": "https://www.nap-camp.com/shiga/11378",
+    "checked": "2026-09-09"
+  },
+  "C248": {
+    "text": "メタセコイア並木の先に広がる大きなキャンプ場。広い高原エリアで開放感を楽しめます。",
+    "source": "https://www.nap-camp.com/shiga/11380",
+    "checked": "2026-09-10"
+  },
+  "C249": {
+    "text": "池の周辺に広がる総合公園。夏のプールや公園での遊びを楽しむ日帰りの選択肢です。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/2100/",
+    "checked": "2026-09-09"
+  },
+  "C250": {
+    "text": "自然に囲まれたログハウスの宿泊施設。テントとは違う、建物を拠点にしたアウトドアを楽しめます。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/28435/",
+    "checked": "2026-09-09"
+  },
+  "C251": {
+    "text": "琵琶湖の水泳場とキャンプを組み合わせられます。ボートなどのレンタルもあり、湖辺の遊びが魅力です。",
+    "source": "https://www.nap-camp.com/shiga/11402",
+    "checked": "2026-09-09"
+  },
+  "C252": {
+    "text": "琵琶湖と緑に囲まれ、ホテルの温泉も利用できます。湖畔の自然と入浴を楽しむ滞在に。",
+    "source": "https://www.nap-camp.com/shiga/16066",
+    "checked": "2026-09-09"
+  },
+  "C253": {
+    "text": "琵琶湖に面した開放的なフリーサイト。湖を眺めながら、自分たちのレイアウトで過ごせます。",
+    "source": "https://www.nap-camp.com/shiga/11391",
+    "checked": "2026-09-10"
+  },
+  "C254": {
+    "text": "温泉が併設されたファミリー向け施設。キャンプと入浴を組み合わせ、ゆっくり滞在したいときに。",
+    "source": "https://www.nap-camp.com/shiga/13841",
+    "checked": "2026-09-10"
+  },
+  "C255": {
+    "text": "野洲川と鈴鹿の山々に囲まれたキャンプ場。向かいのかもしか荘での入浴と、川辺の休日を組み合わせられます。",
+    "source": "https://www.nap-camp.com/shiga/14000",
+    "checked": "2026-09-10"
+  },
+  "C256": {
+    "text": "清流・高時川の流れる琵琶湖北東のキャンプ場。川のある自然の中でゆったり過ごせます。",
+    "source": "https://www.nap-camp.com/shiga/11365",
+    "checked": "2026-09-10"
+  },
+  "C257": {
+    "text": "山あいにある設備の整ったキャンプ場。犬と一緒に過ごすためのサイトも選べます。",
+    "source": "https://www.nap-camp.com/shiga/16697",
+    "checked": "2026-09-10"
+  },
+  "C258": {
+    "text": "伊吹山を眺める姉川沿いのキャンプ場。魚とりやBBQなど、川を身近に感じる遊びが楽しみです。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/20837/",
+    "checked": "2026-09-10"
+  },
+  "C259": {
+    "text": "琵琶湖での滞在に、温泉とサウナを組み合わせられます。夏は湖水浴も楽しみになります。",
+    "source": "https://www.nap-camp.com/shiga/11381",
+    "checked": "2026-09-10"
+  },
+  "C260": {
+    "text": "森を歩いて季節の花を見つけたり、親子で体験教室に参加したり。自然にふれる遊びを広げられる施設です。",
+    "source": "https://www.nap-camp.com/shiga/11410",
+    "checked": "2026-09-10"
+  },
+  "C261": {
+    "text": "人工渓流でイワナやニジマスを釣り、屋根付きBBQ場で味わえる施設。釣りを主役にした休日に向いています。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/28610/",
+    "checked": "2026-09-10"
+  },
+  "C262": {
+    "text": "朽木の山々に囲まれたオートキャンプ場。山あいの自然を感じながら過ごせます。",
+    "source": "https://www.nap-camp.com/shiga/14763",
+    "checked": "2026-09-10"
+  },
+  "C263": {
+    "text": "愛知川の流れを身近に感じるキャンプ場。川遊びや釣りを楽しむ休日に。",
+    "source": "https://www.nap-camp.com/shiga/11412",
+    "checked": "2026-09-09"
+  },
+  "C264": {
+    "text": "琵琶湖に面した森で、プライベート感を大切に過ごす施設。静かな林間の滞在を楽しみたいときに。",
+    "source": "https://www.nap-camp.com/shiga/14612",
+    "checked": "2026-09-10"
+  },
+  "C265": {
+    "text": "高台から琵琶湖を見渡せ、プラネタリウムや遊具もあります。景色と子どもの遊びを楽しめる施設です。",
+    "source": "https://www.nap-camp.com/shiga/11399",
+    "checked": "2026-09-09"
+  },
+  "C266": {
+    "text": "スポーツ施設やアスレチックのある総合運動公園。体を動かす遊びとキャンプを組み合わせられます。",
+    "source": "https://www.nap-camp.com/shiga/11373",
+    "checked": "2026-09-09"
+  },
+  "C267": {
+    "text": "川原での水遊びや渓流釣りを楽しむ施設。バンガローやロッジもあり、泊まり方を選べます。",
+    "source": "https://www.nap-camp.com/shiga/11415",
+    "checked": "2026-09-09"
+  },
+  "C268": {
+    "text": "自然に囲まれたキャンプ場。屋外で過ごす時間と、施設を使ったグループでの滞在が案内されています。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/28434/",
+    "checked": "2026-09-09"
+  },
+  "C269": {
+    "text": "公営の野外活動施設で、常設テントやバンガローを利用するスタイル。持ち込みキャンプとは異なる泊まり方です。",
+    "source": "https://www.nap-camp.com/shiga/11368",
+    "checked": "2026-09-10"
+  },
+  "C270": {
+    "text": "琵琶湖のほとりに広い芝生と大型遊具。子どもがたっぷり遊べる休日を考えるなら。",
+    "source": "https://www.nap-camp.com/shiga/11385",
+    "checked": "2026-09-10"
+  },
+  "C271": {
+    "text": "田園風景を見渡すキャンプ場。カフェやアウトドアショップもあり、のどかな滞在を楽しめます。",
+    "source": "https://www.nap-camp.com/shiga/15960",
+    "checked": "2026-09-09"
+  },
+  "C272": {
+    "text": "琵琶湖沿いで、利用者向けのビーチがあります。湖の景色や水辺で過ごす時間が魅力です。",
+    "source": "https://www.nap-camp.com/shiga/11384",
+    "checked": "2026-09-10"
+  },
+  "C273": {
+    "text": "矢橋帰帆島の公園内でキャンプ。身近な場所で自然に触れ、公園での休日を楽しめます。",
+    "source": "https://www.nap-camp.com/shiga/11393",
+    "checked": "2026-09-09"
+  },
+  "C274": {
+    "text": "水と緑の景観に、テニスやバンガロー泊を組み合わせられる施設。自然の中で体を動かしたいときに。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/2129/",
+    "checked": "2026-09-09"
+  },
+  "C275": {
+    "text": "山々の緑を眺めながらスポーツや森林散策を楽しむ公園。キャンプ専用施設とは異なる観光項目です。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/812/",
+    "checked": "2026-09-09"
+  },
+  "C276": {
+    "text": "石窯でのピザ作りが楽しめる施設。食事作りを家族の体験にしたい休日に。",
+    "source": "https://www.nap-camp.com/shiga/11367",
+    "checked": "2026-09-09"
+  },
+  "C277": {
+    "text": "山をそのまま生かした大きな公園。自然に触れ、学びながら遊ぶ休日を楽しめます。",
+    "source": "https://www.nap-camp.com/shiga/11370",
+    "checked": "2026-09-09"
+  },
+  "C278": {
+    "text": "草野川の支流と山の自然に囲まれたキャンプ場。川辺の雰囲気を楽しみたいときに。",
+    "source": "https://takayama-camp.com/",
+    "checked": "2026-09-09"
+  },
+  "C279": {
+    "text": "清流と緑の中で、広場や水の流れを利用したスライダーを楽しめます。水辺の遊びが魅力の公園です。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/2147/",
+    "checked": "2026-09-09"
+  },
+  "C280": {
+    "text": "琵琶湖西岸にある、風車が目印のグランピング施設。景色を楽しみながら滞在できます。",
+    "source": "https://www.nap-camp.com/shiga/14115",
+    "checked": "2026-09-10"
+  },
+  "C281": {
+    "text": "奥伊吹の自然の中で、キッチンやBBQ台のあるコテージに滞在できます。建物の設備を使って過ごすスタイルです。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/13237/",
+    "checked": "2026-09-09"
+  },
+  "C282": {
+    "text": "室内ドッグラン、サウナ、温泉などのあるグランピング施設。犬との滞在と入浴を楽しめます。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/30782/",
+    "checked": "2026-09-09"
+  },
+  "C283": {
+    "text": "木工体験や大型遊具があり、子どもの遊びが充実。垣根で分かれたオートサイトやコテージを選べます。",
+    "source": "https://www.nap-camp.com/shiga/11366",
+    "checked": "2026-09-09"
+  },
+  "C284": {
+    "text": "マキノ高原の桜を紹介する観光項目です。春の花見や散策向けで、独立したキャンプ場ではありません。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/8338/",
+    "checked": "2026-09-09"
+  },
+  "C285": {
+    "text": "マキノ高原のグラウンド・ゴルフ施設です。キャンプと組み合わせる日中の遊びとして確認できます。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/12294/",
+    "checked": "2026-09-09"
+  },
+  "C286": {
+    "text": "マキノ高原で遊んだ後に立ち寄れる温泉施設。キャンプ場そのものではなく、入浴先の項目です。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/8352/",
+    "checked": "2026-09-09"
+  },
+  "C287": {
+    "text": "地元食材のBBQに、貸切サウナや陶器風呂を組み合わせられます。メタセコイア並木の観光も近くで楽しめます。",
+    "source": "https://www.nap-camp.com/shiga/15668",
+    "checked": "2026-09-10"
+  },
+  "C288": {
+    "text": "姉川上流の自然を楽しむ観光項目。BBQや渓流釣り、秋の紅葉などを紹介しています。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/2928/",
+    "checked": "2026-09-09"
+  },
+  "C289": {
+    "text": "近江白浜の自然の中で、体育館やテニスコートなどを備える旅館。キャンプ場とは別の宿泊施設です。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/234/",
+    "checked": "2026-09-09"
+  },
+  "C290": {
+    "text": "十二坊の森にある温泉施設。キャンプと入浴を組み合わせる際の周辺施設として見られます。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/1690/",
+    "checked": "2026-09-09"
+  },
+  "C291": {
+    "text": "歴史ある寺院を紹介する観光項目です。キャンプ場ではなく、訪問先としての情報です。",
+    "source": "https://www.biwako-visitors.jp/spot/detail/28738/",
+    "checked": "2026-09-09"
+  },
+  "C292": {
+    "text": "気田川に隣接するオートフリーのキャンプ場。清流のある自然の中で過ごせます。",
+    "source": "https://www.nap-camp.com/shizuoka/16145",
+    "checked": "2026-09-10"
+  },
+  "C293": {
+    "text": "中学校を改修した「泊まれる学校」。広い校庭と近くの清流で、いつもと違うキャンプを楽しめます。",
+    "source": "https://www.nap-camp.com/shizuoka/16741",
+    "checked": "2026-09-10"
+  },
+  "C294": {
+    "text": "浜名湖の広い景色と夕日を楽しむロケーション。湖を眺めて過ごしたいキャンプに。",
+    "source": "https://www.nap-camp.com/shizuoka/16474",
+    "checked": "2026-09-10"
+  },
+  "C295": {
+    "text": "浜名湖を眺めて過ごす、舘山寺のキャンプ場。周辺の遊園地や温泉、地元の食を組み合わせて楽しめます。",
+    "source": "https://onefrit-campfield.jp/",
+    "checked": "2026-09-10"
+  },
+  "C296": {
+    "text": "芝生のサイトと阿多古川の清流が魅力。川遊びとキャンプを組み合わせられます。",
+    "source": "https://www.nap-camp.com/shizuoka/11851",
+    "checked": "2026-09-09"
+  },
+  "C297": {
+    "text": "透明度の高い川と林間の環境が魅力。木陰と水辺の自然を楽しむキャンプに。",
+    "source": "https://www.nap-camp.com/shizuoka/16180",
+    "checked": "2026-09-09"
+  },
+  "C298": {
+    "text": "奥浜名湖の山々に囲まれた施設。山あいの自然を楽しめるキャンプ場です。",
+    "source": "https://www.nap-camp.com/shizuoka/11855",
+    "checked": "2026-09-10"
+  },
+  "C299": {
+    "text": "フルーツのテーマパーク内に泊まるキャンプ。園内の遊びと宿泊を組み合わせられます。",
+    "source": "https://www.nap-camp.com/shizuoka/14121",
+    "checked": "2026-09-10"
+  },
+  "C300": {
+    "text": "夜の星空を楽しみにできる山のキャンプ場。空を見上げながら自然の中で過ごしたいときに。",
+    "source": "https://www.nap-camp.com/shizuoka/14391",
+    "checked": "2026-09-10"
+  },
+  "C301": {
+    "text": "南アルプス南端の清流沿い。川の音を身近に感じながら過ごすキャンプです。",
+    "source": "https://www.nap-camp.com/shizuoka/11841",
+    "checked": "2026-09-09"
+  },
+  "C302": {
+    "text": "広葉樹の木漏れ日を楽しむ林間サイト。森の雰囲気を大切に過ごしたいときに。",
+    "source": "https://www.nap-camp.com/shizuoka/11842",
+    "checked": "2026-09-09"
+  },
+  "C303": {
+    "text": "浜名湖畔で水と緑に触れる自然活動施設。メンバー制を基本とし、一般利用の案内もあります。",
+    "source": "https://www.nap-camp.com/shizuoka/11857",
+    "checked": "2026-09-09"
+  },
+  "C304": {
+    "text": "混雑を避けて過ごすことを打ち出した小さな施設。静かな滞在を重視する選び方に。",
+    "source": "https://www.nap-camp.com/shizuoka/16178",
+    "checked": "2026-09-10"
+  },
+  "C305": {
+    "text": "木々に囲まれた林間キャンプ。森の緑を身近に、ゆっくり過ごしたいときに。",
+    "source": "https://sugari.camp/",
+    "checked": "2026-09-09"
+  },
+  "C306": {
+    "text": "花やベンチ、牡蠣殻を使った白い小道など、手づくりの工夫があるキャンプ場。庭のような空間で過ごす楽しみがあります。",
+    "source": "https://www.nap-camp.com/shizuoka/16243",
+    "checked": "2026-09-10"
+  },
+  "C307": {
+    "text": "木立と芝生のある開放的なキャンプ場。自然観察やバードウォッチングを楽しむ滞在に。",
+    "source": "https://www.nap-camp.com/shizuoka/11839",
+    "checked": "2026-09-09"
+  },
+  "C308": {
+    "text": "川遊びや釣りに加え、オフロードコースがある施設。四輪駆動車の遊びも組み合わせられます。",
+    "source": "https://www.nap-camp.com/shizuoka/11840",
+    "checked": "2026-09-09"
+  },
+  "C309": {
+    "text": "川辺の砂地で過ごすフリーサイト。食事処や売店もあり、水辺でくつろぐ時間と食事を組み合わせられます。",
+    "source": "https://www.nap-camp.com/shizuoka/11848",
+    "checked": "2026-09-10"
+  },
+  "C310": {
+    "text": "気田川沿いの自然に囲まれたオートフリーサイト。川辺で、自分たちのレイアウトを楽しめます。",
+    "source": "https://www.nap-camp.com/shizuoka/11847",
+    "checked": "2026-09-10"
+  },
+  "C311": {
+    "text": "気田川沿いのロケーションが魅力。川のある風景の中でキャンプを楽しめます。",
+    "source": "https://www.nap-camp.com/shizuoka/11845",
+    "checked": "2026-09-09"
+  },
+  "C312": {
+    "text": "山々と清流に囲まれた南アルプス深南部の施設。季節の景色を楽しむキャンプに。",
+    "source": "https://www.nap-camp.com/shizuoka/11849",
+    "checked": "2026-09-10"
+  },
+  "C313": {
+    "text": "水路沿いの広い芝生で、浜名湖を身近に過ごせます。マリーナのある景色が特徴です。",
+    "source": "https://www.nap-camp.com/shizuoka/15120",
+    "checked": "2026-09-10"
+  },
+  "C314": {
+    "text": "浜名湖の眺めと遊びを楽しむアウトドアリゾート。湖辺の休日を過ごしたいときに。",
+    "source": "https://hamanako-p-v.com",
+    "checked": "2026-09-09"
+  },
+  "C315": {
+    "text": "自然の中で共同生活を体験する団体向け宿泊施設。一般の家族キャンプとは利用形態が異なります。",
+    "source": "https://www.nap-camp.com/shizuoka/11856",
+    "checked": "2026-09-09"
+  },
+  "C316": {
+    "text": "浜名湖畔の広大な芝生が魅力。広い空を感じながら、のんびり過ごすキャンプに。",
+    "source": "https://www.nap-camp.com/shizuoka/11836",
+    "checked": "2026-09-10"
+  },
+  "C317": {
+    "text": "つり橋を渡って入る、川に囲まれた浮島のキャンプ場。到着までの道のりも楽しみになります。",
+    "source": "https://www.nap-camp.com/shizuoka/11838",
+    "checked": "2026-09-10"
+  },
+  "C318": {
+    "text": "浜名湖畔で、ボートや釣りなどを楽しむ施設として紹介されています。宿泊・日帰りの営業形態は確認が必要です。",
+    "source": "https://www.nap-camp.com/shizuoka/11835",
+    "checked": "2026-09-09"
+  },
+  "C319": {
+    "text": "川辺にあり、天然プールでの水遊びが楽しみなキャンプ場。浜松SAスマートICからアクセスしやすい立地です。",
+    "source": "https://www.nap-camp.com/shizuoka/16881",
+    "checked": "2026-09-10"
+  },
+  "C320": {
+    "text": "清流・多古川に接する自然の中のキャンプ場。水辺で過ごす時間を楽しめます。",
+    "source": "https://www.nap-camp.com/shizuoka/13542",
+    "checked": "2026-09-09"
+  },
+  "C321": {
+    "text": "阿多古川沿いの茶畑と木々に囲まれた小さな施設。清流の景色を身近に感じられます。",
+    "source": "https://www.nap-camp.com/shizuoka/11852",
+    "checked": "2026-09-10"
+  },
+  "C322": {
+    "text": "気田川沿いで、川遊びやカヌー・ラフティングを楽しめるキャンプ場。川辺や林間で過ごす場所を選べます。",
+    "source": "https://www.nap-camp.com/shizuoka/11846",
+    "checked": "2026-09-10"
+  },
+  "C323": {
+    "text": "清流・気田川を間近に感じて過ごすキャンプ場。設備は水場とトイレを中心としたシンプルなつくりで、川辺の自然を楽しめます。",
+    "source": "https://haruno-k.com/gallery/akihajinjyamae/",
+    "checked": "2026-09-10"
+  },
+  "C324": {
+    "text": "緑の芝生が広がり、隣の公園ではローラー滑り台やアスレチックも。入浴施設も近く、家族の遊びと休憩を組み合わせやすい場所です。",
+    "source": "https://ryuyo-auto.entetsuassist-dms.com/",
+    "checked": "2026-09-10"
+  },
+  "C325": {
+    "text": "自然豊かな森林公園で日帰りキャンプ。森で過ごす休日を気軽に楽しむ施設です。",
+    "source": "https://www.nap-camp.com/shizuoka/11854",
+    "checked": "2026-09-09"
+  },
+  "C326": {
+    "text": "浜名湖と山に挟まれたロケーション。湖の景色や夜の星空を楽しみにできます。",
+    "source": "https://www.otosukeno-sato.jp/",
+    "checked": "2026-09-10"
+  },
+  "C327": {
+    "text": "山奥で自然と遊ぶ「ひみつ基地」のような施設。日常から離れて過ごす休日に。",
+    "source": "https://www.nap-camp.com/shizuoka/11853",
+    "checked": "2026-09-10"
+  },
+  "C328": {
+    "text": "川沿いのフリーサイトに、屋根のあるエリアもあります。周辺の便利さと水辺の滞在を組み合わせられます。",
+    "source": "https://www.nap-camp.com/shizuoka/16634",
+    "checked": "2026-09-10"
+  },
+  "C329": {
+    "text": "浜名湖畔のヴィラに滞在する施設。テント泊とは違う、湖を眺める宿泊スタイルです。",
+    "source": "https://www.nap-camp.com/shizuoka/15826",
+    "checked": "2026-09-09"
+  },
+  "C330": {
+    "text": "熊切川沿いの自然を楽しむ施設として紹介されていますが、閉鎖情報があります。現在の宿泊候補にはできません。",
+    "source": "https://www.nap-camp.com/shizuoka/11843",
+    "checked": "2026-09-09"
+  },
+  "C331": {
+    "text": "浜名湖の眺めを楽しめた小規模キャンプ場ですが、閉鎖情報があります。記録として掲載しています。",
+    "source": "https://www.nap-camp.com/shizuoka/14460",
+    "checked": "2026-09-09"
+  },
+  "C332": {
+    "text": "RV・車中泊を中心に利用するスポット。車を拠点に浜松周辺を旅するスタイルです。",
+    "source": "https://www.nap-camp.com/shizuoka/16578",
+    "checked": "2026-09-10"
+  },
+  "C333": {
+    "text": "阿多古川のほとりで、釣りやBBQを楽しむ施設。川の流れを身近に過ごせます。",
+    "source": "https://www.nap-camp.com/shizuoka/11850",
+    "checked": "2026-09-09"
+  },
+  "C334": {
+    "text": "気田川上流の自然の中で、水遊びや釣りを楽しむバンガロー施設。森林散策も組み合わせられます。",
+    "source": "https://www.nap-camp.com/shizuoka/11844",
+    "checked": "2026-09-09"
+  },
+  "C335": {
+    "text": "湖畔の景色と星空を楽しむキャンプ場。林間サイトや旅館を利用したグランピングも選べます。",
+    "source": "https://www.lake-oogute.club/",
+    "checked": "2026-09-09"
+  },
+  "C336": {
+    "text": "標高約1,100m、南信州・阿智村の森で過ごすキャンプ。星空や山あいの自然を楽しみたいときに。",
+    "source": "https://seinanomori.com/",
+    "checked": "2026-09-09"
+  },
+  "C337": {
+    "text": "標高約1,200mの星空と、子ども向け遊具が魅力。お湯の出る炊事場もあり、高原での家族キャンプを楽しめます。",
+    "source": "https://star.natureservice.jp/",
+    "checked": "2026-09-09"
+  },
+  "C338": {
+    "text": "清流の川遊びとBBQを楽しむ施設。バンガローとテントから泊まり方を選べます。",
+    "source": "http://www.town.anan.nagano.jp/tourism/futase_camp/",
+    "checked": "2026-09-09"
+  },
+  "C339": {
+    "text": "清流のある自然の中で、川遊びを楽しむキャンプ場。周辺の温泉を入浴先に組み合わせられます。",
+    "source": "http://www.town.anan.nagano.jp/tourism/ikenoshima/",
+    "checked": "2026-09-09"
+  },
+  "C340": {
+    "text": "豊丘村の山間で、静かな自然と星空を楽しめます。街の明かりから離れて過ごしたいキャンプに。",
+    "source": "https://notanohira.com/",
+    "checked": "2026-09-09"
+  },
+  "C341": {
+    "text": "星空を楽しみにできる南信州のキャンプ場。テントとバンガローから泊まり方を選べます。",
+    "source": "https://ginga-momiji.camp/",
+    "checked": "2026-09-09"
+  },
+  "C342": {
+    "text": "谷あいの清流と星空に、温泉や陶芸体験を組み合わせられます。キャンプ以外の楽しみもある施設です。",
+    "source": "https://kajikanoyu.com/kajikasou/",
+    "checked": "2026-09-09"
+  },
+  "C343": {
+    "text": "丹生の海水浴場から徒歩圏内にあるオートサイト。海辺の遊びとキャンプを組み合わせられます。",
+    "source": "https://wakasabay.jp/list/detail?genre=attractions&id=608285ee7765612a87010000",
+    "checked": "2026-09-09"
+  },
+  "C344": {
+    "text": "白砂の海水浴場に近いキャンプ場。海辺での滞在に、シャワーや炊事場などの設備を利用できます。",
+    "source": "https://wakasa-mihama.jp/beach/nyubeach/",
+    "checked": "2026-09-09"
+  },
+  "C345": {
+    "text": "森の中で、川遊びやピザ焼き、自然素材のクラフトを楽しめる場所。親子で遊びながら学ぶ体験が魅力です。",
+    "source": "https://wakasabay.jp/articles/-/1923",
+    "checked": "2026-09-10"
+  },
+  "C346": {
+    "text": "杉林の地形を生かした林間キャンプ場。バードウォッチングや森の散策を楽しみたい日に向く場所です。",
+    "source": "https://wakasabay.jp/articles/-/1923",
+    "checked": "2026-09-10"
+  }
+}

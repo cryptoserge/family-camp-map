@@ -3,17 +3,30 @@ import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import {filtered,restore,shareHash,safeUrl} from '../src/core.js';
 const {camps}=JSON.parse(readFileSync(new URL('../public/camps.json',import.meta.url)));
-test('346 unique entries and original status counts',()=>{
- assert.equal(camps.length,346);assert.equal(new Set(camps.map(x=>x.id)).size,346);
- assert.deepEqual(Object.fromEntries(['A','B','C','X','S'].map(s=>[s,camps.filter(x=>x.status===s).length])),{A:102,B:28,C:196,X:7,S:13});
+const registry=JSON.parse(readFileSync(new URL('../data/discovery-registry.json',import.meta.url))).entries;
+const originalIds=JSON.parse(readFileSync(new URL('../data/original-ids.json',import.meta.url)));
+import {checkCoverage} from './coverage.mjs';
+test('collector records reconcile with stable facility IDs',()=>{
+ checkCoverage(camps,registry,originalIds);
  assert.equal(camps.filter(x=>x.visited).length,4);
+ assert.throws(()=>checkCoverage(camps,[...registry,{url:'https://example.com/new',name:'未収集テスト'}],originalIds),/未反映/);
+ assert.throws(()=>checkCoverage(camps.filter(x=>x.id!=='C001'),registry,originalIds),/消えています/);
+});
+test('independent booking and missed large/free sites remain candidates',()=>{
+ for(const name of ['レモンファーム','伊木山フォレスト','音の杜','ビラデスト今津','ガーデン白山','ひるがの高原キャンプ場']) {
+  const x=camps.find(x=>x.name.includes(name));assert.ok(x,name);assert.equal(x.status,'A',name);
+ }
+ const lemon=camps.find(x=>x.name.includes('レモンファーム'));
+ assert.match(lemon.size,/110㎡/);assert.match(lemon.capacity,/8名/);
+ assert.ok(filtered(camps,{q:'レモンファーム'}).some(x=>x.id===lemon.id));
+ assert.deepEqual(restore(shareHash([lemon.id,'C107']),camps),[lemon.id,'C107']);
 });
 test('filters intersect and retain unknowns',()=>{
- assert.equal(filtered(camps,{}).length,102);
+ assert.equal(filtered(camps,{}).length,camps.filter(x=>x.status==='A').length);
  assert.equal(filtered(camps,{visit:'yes'}).length,4);
  assert.equal(filtered(camps,{q:'ヒマラヤ'}).length,1);
  assert.equal(filtered(camps,{q:'ＨＩＭＡＬＡＹＡ'}).length,0);
- assert.equal(filtered(camps,{status:''}).length,346);
+ assert.equal(filtered(camps,{status:''}).length,camps.length);
  assert.ok(filtered(camps,{type:'フリー'}).every(x=>x.types.includes('フリー')));
  assert.ok(filtered(camps,{status:'',type:'未確認'}).length>0);
  assert.equal(filtered(camps,{q:'不存在の施設XYZ'}).length,0);
@@ -28,7 +41,7 @@ test('map pins require verified source coordinates',()=>{for(const x of camps){a
 
 test('discovery respects filters and only includes suitable candidates',async()=>{
  const {discover,discoveryCandidates}=await import('../src/core.js');
- assert.equal(discoveryCandidates(camps,{status:''}).length,130);
+ assert.equal(discoveryCandidates(camps,{status:''}).length,camps.filter(x=>['A','B'].includes(x.status)).length);
  for(const status of ['C','X','S'])assert.equal(discover(camps,{status}),undefined);
  assert.equal(discover(camps,{q:'不存在の施設XYZ'}),undefined);
  assert.equal(discover(camps,{q:'ヒマラヤ'}).id,'C107');

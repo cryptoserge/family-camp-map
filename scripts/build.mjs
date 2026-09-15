@@ -1,3 +1,6 @@
+import {readFileSync} from 'node:fs';
+import {checkCoverage} from './coverage.mjs';
+checkCoverage(JSON.parse(readFileSync('public/camps.json')).camps,JSON.parse(readFileSync('data/discovery-registry.json')).entries,JSON.parse(readFileSync('data/original-ids.json')));
 import {mkdir,cp,rm} from 'node:fs/promises';
 await rm('dist',{recursive:true,force:true});
 await mkdir('dist/vendor',{recursive:true});

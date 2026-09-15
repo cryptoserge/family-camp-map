@@ -82,7 +82,7 @@ window.addEventListener('hashchange',()=>{selected=restore(location.hash,data);d
 try{
  const res=await fetch('./camps.json');if(!res.ok)throw Error('data');const payload=await res.json();data=payload.camps;
  $('region').insertAdjacentHTML('beforeend',[...new Set(data.map(x=>x.region))].map(r=>`<option>${esc(r)}</option>`).join(''));
- $('statuses').innerHTML=Object.entries(statuses).map(([key,label])=>`<button data-status="${key}" aria-pressed="${key==='A'}">${label}<span>${data.filter(x=>x.status===key).length}</span></button>`).join('')+'<button data-status="" aria-pressed="false">すべて<span>346</span></button>';
+ $('statuses').innerHTML=Object.entries(statuses).map(([key,label])=>`<button data-status="${key}" aria-pressed="${key==='A'}">${label}<span>${data.filter(x=>x.status===key).length}</span></button>`).join('')+`<button data-status="" aria-pressed="false">すべて<span>${data.length}</span></button>`;
  $('updated').textContent='データ更新 '+payload.updated;
  selected=restore(location.hash,data);makeMap();draw();fit();if(selected.length)openComparison();
  fetch('./intros.json').then(r=>r.ok?r.json():{}).then(p=>{intros=p;draw();if($('detail').open)openDetail(active);if($('comparison').open)drawComparison();}).catch(()=>{});

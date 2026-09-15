@@ -1349,5 +1349,159 @@
     "title": "キャンプすがり2 RV・車中泊スポットの口コミ・予約（静岡県浜松市天竜区横川３２４２−１）",
     "credit": "なっぷ掲載の施設写真",
     "checked": "2026-09-10"
+  },
+  "C347": {
+    "url": "https://lemonfarm.net/common/img/ogp.jpg",
+    "source": "https://lemonfarm.net/",
+    "title": "LEMON FARM",
+    "credit": "公式サイトの紹介画像",
+    "checked": "2026-09-16"
+  },
+  "C354": {
+    "url": "https://www.nap-camp.com/images/og_image_default.jpg",
+    "source": "https://www.nap-camp.com/gifu/10376",
+    "title": "ひるがの高原キャンプ場",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C384": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/14331/img_2_29757.jpg&ts=000000&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/gifu/14331",
+    "title": "伊木山フォレスト",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C391": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/16931/img_2_159631.jpg&ts=151714&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/gifu/16931",
+    "title": "Bushcraft Field Hida 梨ケ根キャンプ場",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C431": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/11097/img_2_83517.jpg&ts=185104&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/mie/11097",
+    "title": "青山高原保健休養地キャンプ場",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C436": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/11078/img_2_131502.jpg&ts=141702&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/mie/11078",
+    "title": "御座岬オートキャンプ場",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C437": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/15105/img_2_88495.jpg&ts=161411&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/mie/15105",
+    "title": "ストロベリービーチ キャンプ場",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C440": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/16880/img_2_155438.jpg&ts=173327&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/mie/16880",
+    "title": "志摩グリーンアドベンチャーキャンプフィールド",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C441": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/14542/img_2_51011.jpg&ts=101134&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/mie/14542",
+    "title": "伊勢志摩パールヴィレッジオートキャンプ場",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C444": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/16631/img_2_133564.jpg&ts=000000&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/mie/16631",
+    "title": "オートパークガーデン白山キャンピングプレイス",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C445": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/11046/img_2_161373.jpg&ts=124320&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/mie/11046",
+    "title": "青山ハーモニー・フォレスト",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C448": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/16002/img_2_96583.jpg&ts=161755&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/mie/16002",
+    "title": "津市榊原温泉湯の瀬ラムちゃんパーク",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C449": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/16130/img_2_102781.jpg&ts=000000&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/mie/16130",
+    "title": "キャンプサイトかわせみ",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C453": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/11084/img_2_19225.jpg&ts=150924&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/mie/11084",
+    "title": "つつじの里 荒滝キャンプ場",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C454": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/14300/img_2_27062.jpg&ts=175902&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/mie/14300",
+    "title": "xadventures キャンプ場",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C480": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/16938/img_2_160566.jpg&ts=000000&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/mie/16938",
+    "title": "縁 古民家&CAMP ~kitayama~",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C520": {
+    "url": "https://www.nap-camp.com/images/og_image_default.jpg",
+    "source": "https://www.nap-camp.com/mie/16812",
+    "title": "音の杜キャンプ場",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C523": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/16724/img_2_140769.jpg&ts=135625&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/shiga/16724",
+    "title": "スターフォレストマキノグランピングヴィラ",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C527": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/11387/img_2_79386.jpg&ts=164330&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/shiga/11387",
+    "title": "家族旅行村 ビラデスト今津",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C529": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/16937/img_2_159574.jpg&ts=123208&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/shiga/16937",
+    "title": "能登川水車カヌーランド キャンプフィールド",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C532": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/14451/img_2_37480.jpg&ts=190633&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/shiga/14451",
+    "title": "妙理の里キャンプ場",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
+  },
+  "C539": {
+    "url": "https://mr59fqlw.user.webaccel.jp/api/cdn_images?fname=/campsite_image/14370/img_2_33868.jpg&ts=000000&rw=1200&wm=resize&rh=630&hm=resize",
+    "source": "https://www.nap-camp.com/shiga/14370",
+    "title": "ジェイホッパーズ琵琶湖キャンプ場",
+    "credit": "なっぷ掲載の施設写真",
+    "checked": "2026-09-16"
   }
 }

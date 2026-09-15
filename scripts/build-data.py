@@ -20,7 +20,17 @@ for row in rows:
  x['location']={'status':c.get('status','unverified'),'source':c.get('source',''),'checked':c.get('checked',''),'note':c.get('reason','位置を確認中') if c.get('status')=='verified' else '施設名・所在地と掲載座標の照合が未完了。施設案内をご確認ください。'}
  if c.get('status')=='verified': x['location'].update(lat=c['lat'],lng=c['lng'])
  out.append(x)
-assert len(out)==346 and len({x['id'] for x in out})==346
+assert len({x['id'] for x in out})==len(out), '施設ID重複'
+ids={x['id'] for x in out}
+assert set(json.loads((root/'data/original-ids.json').read_text())) <= ids, '既存IDが消失'
+registry=json.loads((root/'data/discovery-registry.json').read_text())['entries']
+assert all(x.get('campId') in ids and x.get('reason') for x in registry), '収集結果の未統合'
+# Reconcile the actual collector output, not just a hand-maintained registry.
+previews=root.parent/'work/camp_screen_plan_previews.json'
+assert previews.exists(), '収集結果が必要です: work/camp_screen_plan_previews.json'
+seen={x['url'] for region in json.loads(previews.read_text()).values() for x in region['seen']}
+missing=seen-{x['url'] for x in registry}
+assert not missing, f'新しい収集結果を一覧・収集台帳へ追加してください: {sorted(missing)}'
 assert sum(x['visited'] for x in out)==4
-(root/'public/camps.json').write_text(json.dumps({'updated':'2026-09-09','camps':out},ensure_ascii=False,indent=2))
-print('346施設 / 訪問済み4 / 位置確認済み',sum(x['location']['status']=='verified' for x in out))
+(root/'public/camps.json').write_text(json.dumps({'updated':max(row['再判定日'] for row in rows),'camps':out},ensure_ascii=False,indent=2))
+print(len(out),'施設 / 訪問済み4 / 位置確認済み',sum(x['location']['status']=='verified' for x in out))

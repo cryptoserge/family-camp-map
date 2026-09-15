@@ -1,0 +1,3618 @@
+{
+  "checked": "2026-09-16",
+  "scope": "保存済み515件のなっぷ収集結果＋独自予約LEMON FARM。地域全施設の網羅を意味しない。",
+  "entries": [
+    {
+      "name": "LEMON FARM（レモンファーム）",
+      "url": "https://lemonfarm.net/",
+      "campId": "C347",
+      "disposition": "added",
+      "reason": "独自予約施設。従来の収集元に未収録"
+    },
+    {
+      "name": "つぐ高原グリーンパーク",
+      "url": "https://www.nap-camp.com/aichi/10054",
+      "campId": "C061",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ゾレンキャンプ場",
+      "url": "https://www.nap-camp.com/aichi/15951",
+      "campId": "C017",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "とよねランドオートキャンプ村",
+      "url": "https://www.nap-camp.com/aichi/10057",
+      "campId": "C010",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "互いの森PARK",
+      "url": "https://www.nap-camp.com/aichi/16798",
+      "campId": "C025",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "CAMP LOVE",
+      "url": "https://www.nap-camp.com/aichi/14482",
+      "campId": "C002",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "三河高原キャンプ村",
+      "url": "https://www.nap-camp.com/aichi/10051",
+      "campId": "C024",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "恋路ヶ浜オートキャンプ場",
+      "url": "https://www.nap-camp.com/aichi/16117",
+      "campId": "C035",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "東海ビーチグランピングリゾート Kingboy",
+      "url": "https://www.nap-camp.com/aichi/13577",
+      "campId": "C067",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Kaede Valley&Hill(カエデバレーアンドヒル)",
+      "url": "https://www.nap-camp.com/aichi/15056",
+      "campId": "C005",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "リバーベース塩瀬",
+      "url": "https://www.nap-camp.com/aichi/15875",
+      "campId": "C021",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "リバーサイドキャンプ腰掛（腰掛山荘）",
+      "url": "https://www.nap-camp.com/aichi/14590",
+      "campId": "C020",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "BAMBOO RESORT MIHAMA 繋",
+      "url": "https://www.nap-camp.com/aichi/14972",
+      "campId": "C001",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "浜オートキャンプ場",
+      "url": "https://www.nap-camp.com/aichi/15721",
+      "campId": "C042",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "大曽公園",
+      "url": "https://www.nap-camp.com/aichi/14803",
+      "campId": "C031",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "篠島デューテラス オートキャンプ場",
+      "url": "https://www.nap-camp.com/aichi/16457",
+      "campId": "C046",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "キャンプMOON",
+      "url": "https://www.nap-camp.com/aichi/16424",
+      "campId": "C014",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "夜空と星のキャンプ場",
+      "url": "https://www.nap-camp.com/aichi/15648",
+      "campId": "C030",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Cafe goofy",
+      "url": "https://www.nap-camp.com/aichi/16413",
+      "campId": "C003",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "SUP&CAMP CRAZY ON FLEEK",
+      "url": "https://www.nap-camp.com/aichi/16773",
+      "campId": "C008",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ソロキャンフィールド鳳来",
+      "url": "https://www.nap-camp.com/aichi/16173",
+      "campId": "C016",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Fujioka Activity Base",
+      "url": "https://www.nap-camp.com/aichi/16570",
+      "campId": "C004",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "BBQガーデンピクニック",
+      "url": "https://www.nap-camp.com/aichi/14462",
+      "campId": "C051",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "にしうらシーサイドキャンプ場",
+      "url": "https://www.nap-camp.com/aichi/14736",
+      "campId": "C011",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "さなげアドベンチャーフィールドデイキャンプ場",
+      "url": "https://www.nap-camp.com/aichi/10047",
+      "campId": "C060",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "WOOD DESIGN PARK(ウッドデザインパーク)",
+      "url": "https://www.nap-camp.com/aichi/13959",
+      "campId": "C055",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "愛知県民の森キャンプ場",
+      "url": "https://www.nap-camp.com/aichi/10038",
+      "campId": "C037",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "設楽オートキャンプ場",
+      "url": "https://www.nap-camp.com/aichi/10052",
+      "campId": "C049",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "山びこの丘",
+      "url": "https://www.nap-camp.com/aichi/10037",
+      "campId": "C033",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "キャンプ＆バーベキュー場 ヤネル",
+      "url": "https://www.nap-camp.com/aichi/15740",
+      "campId": "C015",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "やまびこキャンプ場",
+      "url": "https://www.nap-camp.com/aichi/10048",
+      "campId": "C012",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "半田運動公園",
+      "url": "https://www.nap-camp.com/aichi/10044",
+      "campId": "C029",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "WOOD DESIGN PARK noma (ウッドデザインパーク野間)",
+      "url": "https://www.nap-camp.com/aichi/14098",
+      "campId": "C054",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "旭高原元気村",
+      "url": "https://www.nap-camp.com/aichi/10046",
+      "campId": "C038",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "アウトドア・ベース犬山キャンプ場",
+      "url": "https://www.nap-camp.com/aichi/10034",
+      "campId": "C013",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "くらがり渓谷キャンプ場",
+      "url": "https://www.nap-camp.com/aichi/10031",
+      "campId": "C009",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "仁崎キャンプ場",
+      "url": "https://www.nap-camp.com/aichi/10042",
+      "campId": "C026",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "桃太郎公園 栗栖園地",
+      "url": "https://www.nap-camp.com/aichi/10029",
+      "campId": "C040",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "【R5/11 閉鎖】八曽モミの木キャンプ場",
+      "url": "https://www.nap-camp.com/aichi/10035",
+      "campId": "C059",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "常滑りんくうビーチキャンプ",
+      "url": "https://www.nap-camp.com/aichi/14188",
+      "campId": "C034",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "休暇村伊良湖オートキャンプ場",
+      "url": "https://www.nap-camp.com/aichi/10043",
+      "campId": "C027",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "パークフィールド スノーピーク 豊田鞍ヶ池",
+      "url": "https://www.nap-camp.com/aichi/16409",
+      "campId": "C018",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "三沢高原いこいの里キャンプ場",
+      "url": "https://www.nap-camp.com/aichi/16885",
+      "campId": "C022",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "瀬戸市定光寺野外活動センター",
+      "url": "https://www.nap-camp.com/aichi/10039",
+      "campId": "C043",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "中日小野浦キャンプバンガロー村",
+      "url": "https://www.nap-camp.com/aichi/10041",
+      "campId": "C064",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "1010広場（てんてんひろば）キャンプサイト＆BBQ",
+      "url": "https://www.nap-camp.com/aichi/14228",
+      "campId": "C050",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Oppo Nisshin（おっぽ日進）",
+      "url": "https://www.nap-camp.com/aichi/14854",
+      "campId": "C007",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Ocean front gramping 37BASE",
+      "url": "https://www.nap-camp.com/aichi/15887",
+      "campId": "C052",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "桑谷キャンプ場",
+      "url": "https://www.nap-camp.com/aichi/10030",
+      "campId": "C041",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "荻不動ヶ滝園地",
+      "url": "https://www.nap-camp.com/aichi/10032",
+      "campId": "C047",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "犬山野外活動センター",
+      "url": "https://www.nap-camp.com/aichi/10033",
+      "campId": "C044",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "春日井市細野キャンプ場",
+      "url": "https://www.nap-camp.com/aichi/10036",
+      "campId": "C039",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "愛知こどもの国キャンプ場",
+      "url": "https://www.nap-camp.com/aichi/10040",
+      "campId": "C036",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "少年自然の家",
+      "url": "https://www.nap-camp.com/aichi/10045",
+      "campId": "C032",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "【H28/4現在閉鎖中】中日テント村",
+      "url": "https://www.nap-camp.com/aichi/10049",
+      "campId": "C057",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "【R2/12現在営業状況確認中】したらの里",
+      "url": "https://www.nap-camp.com/aichi/10053",
+      "campId": "C058",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "三河オートビレッジ",
+      "url": "https://www.nap-camp.com/aichi/10055",
+      "campId": "C023",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "千代姫バンガロー村",
+      "url": "https://www.nap-camp.com/aichi/10056",
+      "campId": "C065",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "休暇村茶臼山高原チャウシカの森キャンプ場",
+      "url": "https://www.nap-camp.com/aichi/10058",
+      "campId": "C028",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "古里とみやまバンガロー村",
+      "url": "https://www.nap-camp.com/aichi/10059",
+      "campId": "C066",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "三河湖バンガロー村ふる里",
+      "url": "https://www.nap-camp.com/aichi/13519",
+      "campId": "C063",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ブランシェ",
+      "url": "https://www.nap-camp.com/aichi/13743",
+      "campId": "C019",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "表浜ほうべの森（谷ノ口公園）",
+      "url": "https://www.nap-camp.com/aichi/13947",
+      "campId": "C048",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ウッドデザインパークいちのみや-紡-",
+      "url": "https://www.nap-camp.com/aichi/15731",
+      "campId": "C062",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "glampark 海陽閣",
+      "url": "https://www.nap-camp.com/aichi/16033",
+      "campId": "C056",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "知多美浜 野間海岸ステーション",
+      "url": "https://www.nap-camp.com/aichi/16051",
+      "campId": "C045",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "One Life garden",
+      "url": "https://www.nap-camp.com/aichi/16550",
+      "campId": "C006",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "美濃白川アウトドアリゾート クオーレふれあいの里",
+      "url": "https://www.nap-camp.com/gifu/10361",
+      "campId": "C146",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ひだ流葉オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10460",
+      "campId": "C091",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "LScamp養老（旧：RECAMP養老）",
+      "url": "https://www.nap-camp.com/gifu/10476",
+      "campId": "C163",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "中津川竜神の滝キャンプ場（旧：夕森渓谷スターリーフォレスト）",
+      "url": "https://www.nap-camp.com/gifu/10440",
+      "campId": "C114",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Alpen Outdoors しろとりフィールド",
+      "url": "https://www.nap-camp.com/gifu/10384",
+      "campId": "C069",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "FORESTDOME付知峡",
+      "url": "https://www.nap-camp.com/gifu/16140",
+      "campId": "C162",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ヒマラヤNEOキャンピングパーク",
+      "url": "https://www.nap-camp.com/gifu/10464",
+      "campId": "C107",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "揖斐高原キャンピングフィールドAFUREPPA",
+      "url": "https://www.nap-camp.com/gifu/10475",
+      "campId": "C132",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "飯地高原自然テント村",
+      "url": "https://www.nap-camp.com/gifu/10400",
+      "campId": "C156",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Outdoor Village 373",
+      "url": "https://www.nap-camp.com/gifu/15812",
+      "campId": "C081",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "金原里山キャンプ村",
+      "url": "https://www.nap-camp.com/gifu/16548",
+      "campId": "C150",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "まるかりの里久野川",
+      "url": "https://www.nap-camp.com/gifu/10349",
+      "campId": "C094",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Tanigumi useful village",
+      "url": "https://www.nap-camp.com/gifu/16530",
+      "campId": "C082",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "みぼろ湖畔キャンプサイト",
+      "url": "https://www.nap-camp.com/gifu/10419",
+      "campId": "C095",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "胡桃島キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10422",
+      "campId": "C147",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "FORESTDOMEひだ高山（旧：ネイチャーチラックスひだ高山）",
+      "url": "https://www.nap-camp.com/gifu/14337",
+      "campId": "C161",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "嵓 KURA Nagomi Hida Takayama",
+      "url": "https://www.nap-camp.com/gifu/16174",
+      "campId": "C129",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "くるみ温泉&キャンプ",
+      "url": "https://www.nap-camp.com/gifu/10423",
+      "campId": "C087",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "笠置山 望郷の森キャンプ場 | KASAGI BASE CAMP",
+      "url": "https://www.nap-camp.com/gifu/14316",
+      "campId": "C144",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "大津谷公園キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10470",
+      "campId": "C125",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "せせらぎキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/15996",
+      "campId": "C089",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "山之村キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10459",
+      "campId": "C128",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "しらたかキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/14735",
+      "campId": "C088",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "HOLY FUNGUS",
+      "url": "https://www.nap-camp.com/gifu/16266",
+      "campId": "C074",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "新くるみランド",
+      "url": "https://www.nap-camp.com/gifu/15874",
+      "campId": "C134",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "s-craft camp",
+      "url": "https://www.nap-camp.com/gifu/16443",
+      "campId": "C085",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "日和田高原ロッジ・キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10411",
+      "campId": "C136",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "和良大月の森公園キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10393",
+      "campId": "C122",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "のほほんパークひだおさか（旧：飛騨小坂ふれあいの森キャンプ場）",
+      "url": "https://www.nap-camp.com/gifu/10351",
+      "campId": "C090",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ひるがの高原コテージパーク四季の郷",
+      "url": "https://www.nap-camp.com/gifu/14119",
+      "campId": "C167",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "旅籠パークリゾート",
+      "url": "https://www.nap-camp.com/gifu/16587",
+      "campId": "C135",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "DYNALAND CAMP BASE",
+      "url": "https://www.nap-camp.com/gifu/14853",
+      "campId": "C072",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "郡上八幡自然園",
+      "url": "https://www.nap-camp.com/gifu/10388",
+      "campId": "C149",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "月夜谷ふれあいの里",
+      "url": "https://www.nap-camp.com/gifu/10472",
+      "campId": "C137",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "魚の宿",
+      "url": "https://www.nap-camp.com/gifu/14443",
+      "campId": "C157",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "バーベキューハウス四季の森",
+      "url": "https://www.nap-camp.com/gifu/14305",
+      "campId": "C106",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "海津市羽根谷だんだん公園キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/15687",
+      "campId": "C140",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "N.A.O.高山すずらん高原キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/15007",
+      "campId": "C078",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "エナジーアクティブフィールドしらお",
+      "url": "https://www.nap-camp.com/gifu/16901",
+      "campId": "C097",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "KITEN長良川オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/15103",
+      "campId": "C075",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "平湯キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10405",
+      "campId": "C130",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "藤橋キャンピングベース",
+      "url": "https://www.nap-camp.com/gifu/15664",
+      "campId": "C148",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "MOUNTAIN SIDE MIYA BASE",
+      "url": "https://www.nap-camp.com/gifu/16020",
+      "campId": "C076",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "和良川公園オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10394",
+      "campId": "C123",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "保古の湖キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10399",
+      "campId": "C119",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "AUTO CAMPING TACランドいたどり",
+      "url": "https://www.nap-camp.com/gifu/10368",
+      "campId": "C068",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "カクレハ高原オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10425",
+      "campId": "C099",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "飛騨高山 釣り＆キャンプ 鱒蔵",
+      "url": "https://www.nap-camp.com/gifu/14787",
+      "campId": "C155",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ボーの森",
+      "url": "https://www.nap-camp.com/gifu/16793",
+      "campId": "C110",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "小笠原苑キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10466",
+      "campId": "C127",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "飛騨たかね野麦オートビレッジ",
+      "url": "https://www.nap-camp.com/gifu/10412",
+      "campId": "C153",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "a laise camp すめらぎの森",
+      "url": "https://www.nap-camp.com/gifu/15870",
+      "campId": "C084",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "リバポの森キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/16906",
+      "campId": "C111",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "エナノキ BASE",
+      "url": "https://www.nap-camp.com/gifu/16394",
+      "campId": "C098",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "フィッシングキャンプエリア瑞浪",
+      "url": "https://www.nap-camp.com/gifu/15025",
+      "campId": "C108",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "天空の森野営キャンプフィールドBushcraft HOKO",
+      "url": "https://www.nap-camp.com/gifu/16270",
+      "campId": "C126",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "飛騨市森林公園キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10458",
+      "campId": "C154",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "トイの森",
+      "url": "https://www.nap-camp.com/gifu/13840",
+      "campId": "C103",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "徳山レイクサイドテラス",
+      "url": "https://www.nap-camp.com/gifu/16973",
+      "campId": "C131",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "キャンプ村しろとり野営場",
+      "url": "https://www.nap-camp.com/gifu/14990",
+      "campId": "C100",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "まぜ川上健康農園",
+      "url": "https://www.nap-camp.com/gifu/16011",
+      "campId": "C093",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "トリッパーベース",
+      "url": "https://www.nap-camp.com/gifu/14722",
+      "campId": "C104",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "CAMP SITE AORAKI",
+      "url": "https://www.nap-camp.com/gifu/14664",
+      "campId": "C071",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "青空見聞塾 宮代オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10359",
+      "campId": "C152",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ひちそう見晴らしキャンプ場（旧：太ッ腹キャンプ場）",
+      "url": "https://www.nap-camp.com/gifu/15981",
+      "campId": "C092",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "プライベートキャンプ場 リノア白川町",
+      "url": "https://www.nap-camp.com/gifu/16376",
+      "campId": "C109",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "めいほう高原キャンプフィールド",
+      "url": "https://www.nap-camp.com/gifu/13807",
+      "campId": "C096",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "N.E.W 奥長良キャンプ場&WANKO",
+      "url": "https://www.nap-camp.com/gifu/10380",
+      "campId": "C079",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "鷲ヶ岳高原ホテルレインボーキャンプ場トワイライト",
+      "url": "https://www.nap-camp.com/gifu/14694",
+      "campId": "C159",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "鷲ヶ岳立石キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/13596",
+      "campId": "C158",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ログランド奥美濃",
+      "url": "https://www.nap-camp.com/gifu/14782",
+      "campId": "C348",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "福岡ローマン渓谷オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10454",
+      "campId": "C143",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "宇津江四十八滝キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10413",
+      "campId": "C349",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "本谷オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10451",
+      "campId": "C116",
+      "disposition": "alias",
+      "reason": "施設名・住所を照合して既存IDに対応"
+    },
+    {
+      "name": "めいほうキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10391",
+      "campId": "C350",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ナチュールみやがわ",
+      "url": "https://www.nap-camp.com/gifu/14560",
+      "campId": "C351",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ほしとせせらぎのぐらんぴんぐ（クアリゾート湯舟沢）",
+      "url": "https://www.nap-camp.com/gifu/13939",
+      "campId": "C352",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "峡北恵那キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10452",
+      "campId": "C353",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ひるがの高原キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10376",
+      "campId": "C354",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "椛の湖オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10437",
+      "campId": "C139",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "塔の岩オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10450",
+      "campId": "C124",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "奥飛騨温泉郷オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10403",
+      "campId": "C355",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "N.A.O.明野高原キャンプ場＆貸別荘",
+      "url": "https://www.nap-camp.com/gifu/10377",
+      "campId": "C077",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "【R4/12閉鎖】付知峡大自然キャンプ場さんけい広場",
+      "url": "https://www.nap-camp.com/gifu/10446",
+      "campId": "C356",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "白川郷 桜街道 ひらせ温泉キャンプサイト",
+      "url": "https://www.nap-camp.com/gifu/10434",
+      "campId": "C357",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "御殿山キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10461",
+      "campId": "C358",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【R5/5閉鎖】Orkひるがの",
+      "url": "https://www.nap-camp.com/gifu/13966",
+      "campId": "C359",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "一色の森キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10418",
+      "campId": "C360",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "山のハコキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/16074",
+      "campId": "C361",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "白山ブナの森キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10435",
+      "campId": "C362",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "パスカル清見オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10417",
+      "campId": "C363",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "グリーンプラザみやま",
+      "url": "https://www.nap-camp.com/gifu/10427",
+      "campId": "C101",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "【R2/7現在一時休止中】飛騨高山キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10406",
+      "campId": "C364",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "アオミキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10445",
+      "campId": "C117",
+      "disposition": "alias",
+      "reason": "施設名・住所を照合して既存IDに対応"
+    },
+    {
+      "name": "【R7/9月 閉鎖】無印良品南乗鞍キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10410",
+      "campId": "C365",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "板取川温泉オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10367",
+      "campId": "C366",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "グリーンウッド関ヶ原",
+      "url": "https://www.nap-camp.com/gifu/10463",
+      "campId": "C102",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "老谷の森 川のほとりのキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10355",
+      "campId": "C367",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "板取キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10371",
+      "campId": "C138",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "亀淵オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10468",
+      "campId": "C368",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【R2/8現在一時休止中】合掌の森中尾キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10402",
+      "campId": "C369",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "油坂さくらパーク",
+      "url": "https://www.nap-camp.com/gifu/10382",
+      "campId": "C370",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "飛騨金山の森キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10350",
+      "campId": "C371",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "すぎのこキャンプ場バンガロー村",
+      "url": "https://www.nap-camp.com/gifu/10372",
+      "campId": "C372",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "鮎の里ほらどオートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10365",
+      "campId": "C373",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "Outdoor Style AMIDA",
+      "url": "https://www.nap-camp.com/gifu/13912",
+      "campId": "C374",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "郡上八幡リバーウッドオートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10386",
+      "campId": "C375",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "AiMiX南乗鞍ベース（旧：アイミックス自然村南乗鞍オートキャンプ場）",
+      "url": "https://www.nap-camp.com/gifu/10409",
+      "campId": "C376",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【R8/3月閉鎖】星降るWAN-WAキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/13845",
+      "campId": "C377",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "岐阜市役所 ながら川ふれあいの森四季の森センター",
+      "url": "https://www.nap-camp.com/gifu/10375",
+      "campId": "C378",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【R6/6 閉鎖】でじろうの森キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/14505",
+      "campId": "C379",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ひるがの高原BASE",
+      "url": "https://www.nap-camp.com/gifu/14922",
+      "campId": "C380",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【キャンプ場閉鎖】粕川河川公園（旧：粕川オートキャンプ場）",
+      "url": "https://www.nap-camp.com/gifu/13598",
+      "campId": "C381",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【R4/8現在閉鎖】八曽の里キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10430",
+      "campId": "C382",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【R7/12月閉鎖】なかんじょ川キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10457",
+      "campId": "C383",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "伊木山フォレスト",
+      "url": "https://www.nap-camp.com/gifu/14331",
+      "campId": "C384",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ロックフィールドいとしろ",
+      "url": "https://www.nap-camp.com/gifu/10383",
+      "campId": "C385",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "美女高原キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10421",
+      "campId": "C386",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "三国山キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10456",
+      "campId": "C387",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "三ツ石オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10373",
+      "campId": "C112",
+      "disposition": "alias",
+      "reason": "施設名・住所を照合して既存IDに対応"
+    },
+    {
+      "name": "NOASOBI campfield",
+      "url": "https://www.nap-camp.com/gifu/14589",
+      "campId": "C388",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "日石ビレッジ",
+      "url": "https://www.nap-camp.com/gifu/15943",
+      "campId": "C389",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ひるがの高原あぐりの丘",
+      "url": "https://www.nap-camp.com/gifu/16361",
+      "campId": "C390",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "Bushcraft Field Hida 梨ケ根キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/16931",
+      "campId": "C391",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "なんもないキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/16974",
+      "campId": "C392",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "N.E.Wほっとほっと湯の平温泉コテージ",
+      "url": "https://www.nap-camp.com/gifu/13805",
+      "campId": "C393",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ネイチャーランドかみのほ",
+      "url": "https://www.nap-camp.com/gifu/10363",
+      "campId": "C105",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "【R7/4 閉鎖】EARTH SHIP Camp＆Field",
+      "url": "https://www.nap-camp.com/gifu/13831",
+      "campId": "C394",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "和み舎せせらぎ",
+      "url": "https://www.nap-camp.com/gifu/13907",
+      "campId": "C121",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ヒトハリ",
+      "url": "https://www.nap-camp.com/gifu/14233",
+      "campId": "C395",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【R3/6 現在閉鎖】トヨタ白川郷自然學校",
+      "url": "https://www.nap-camp.com/gifu/14386",
+      "campId": "C396",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "North Village Hirugano - Camping Fields",
+      "url": "https://www.nap-camp.com/gifu/14822",
+      "campId": "C080",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "下呂温泉キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/15702",
+      "campId": "C397",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "里山グランピングむすび",
+      "url": "https://www.nap-camp.com/gifu/16192",
+      "campId": "C171",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "【R7/12 閉鎖】TigerCampStore 白鳥Base",
+      "url": "https://www.nap-camp.com/gifu/16795",
+      "campId": "C398",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "中川原キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10352",
+      "campId": "C399",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "下呂温泉乗政キャンプ場【H27/6現在閉鎖中】",
+      "url": "https://www.nap-camp.com/gifu/10353",
+      "campId": "C400",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "カオレオートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10356",
+      "campId": "C401",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "馬瀬川の里 すずし野",
+      "url": "https://www.nap-camp.com/gifu/10357",
+      "campId": "C402",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "七宗遊園キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10358",
+      "campId": "C403",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "佐見川峡キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10360",
+      "campId": "C404",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【H31/4現在閉鎖中】馬小屋ベースキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10362",
+      "campId": "C405",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "迎島バンガロー",
+      "url": "https://www.nap-camp.com/gifu/10364",
+      "campId": "C406",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "黒谷キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10366",
+      "campId": "C407",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "キャンプランド新板取【H27/08現在閉鎖中】",
+      "url": "https://www.nap-camp.com/gifu/10369",
+      "campId": "C408",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "板取川温泉 コテージ湯屋",
+      "url": "https://www.nap-camp.com/gifu/10370",
+      "campId": "C409",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "八滝ウッディランド",
+      "url": "https://www.nap-camp.com/gifu/10374",
+      "campId": "C120",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "アミーゴバンガロー村",
+      "url": "https://www.nap-camp.com/gifu/10378",
+      "campId": "C410",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "アウトドアイン母袋キャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10381",
+      "campId": "C411",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "郡上八幡レインボーオートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10385",
+      "campId": "C412",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "山と川の学校",
+      "url": "https://www.nap-camp.com/gifu/10387",
+      "campId": "C413",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "粥川バンガロー村",
+      "url": "https://www.nap-camp.com/gifu/10389",
+      "campId": "C414",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "こうじびら山の家",
+      "url": "https://www.nap-camp.com/gifu/10392",
+      "campId": "C415",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "知多市野外教育センター【H27/3現在閉鎖中】",
+      "url": "https://www.nap-camp.com/gifu/10395",
+      "campId": "C416",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "奥矢作レクリエーションセンター",
+      "url": "https://www.nap-camp.com/gifu/10396",
+      "campId": "C417",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "福寿の里モンゴル村",
+      "url": "https://www.nap-camp.com/gifu/10397",
+      "campId": "C142",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "【R1/10現在閉鎖中】高原川オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10401",
+      "campId": "C418",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "奥飛騨リバーサイドキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10404",
+      "campId": "C419",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "舟山高原キャンプ場【H27/6現在閉鎖中】",
+      "url": "https://www.nap-camp.com/gifu/10407",
+      "campId": "C420",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "あららぎパーク",
+      "url": "https://www.nap-camp.com/gifu/10408",
+      "campId": "C421",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "奥飛騨双六渓谷テント村",
+      "url": "https://www.nap-camp.com/gifu/10414",
+      "campId": "C422",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "清見すのまたオートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10415",
+      "campId": "C423",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "高山市役所 清見支所すのまたふるさと学校",
+      "url": "https://www.nap-camp.com/gifu/10416",
+      "campId": "C424",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "岩舟河川公園",
+      "url": "https://www.nap-camp.com/gifu/10420",
+      "campId": "C425",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【R6/8現在 閉鎖】丸美リゾート飛騨秋神高原オートキャンプ場",
+      "url": "https://www.nap-camp.com/gifu/10424",
+      "campId": "C426",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "アンバイエ（旧：伊自良キャンプ場）",
+      "url": "https://www.nap-camp.com/gifu/10426",
+      "campId": "C083",
+      "disposition": "alias",
+      "reason": "施設名・住所を照合して既存IDに対応"
+    },
+    {
+      "name": "大登の森岳見高原キャンプ場【H27/6 現在閉鎖中】",
+      "url": "https://www.nap-camp.com/gifu/10428",
+      "campId": "C427",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "三の倉市民の里地球村",
+      "url": "https://www.nap-camp.com/gifu/10429",
+      "campId": "C428",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "時山バンガロー村【H27/3現在閉鎖中】",
+      "url": "https://www.nap-camp.com/gifu/10431",
+      "campId": "C429",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "かみいしづ緑の村公園バンガロー村【H28/2 現在閉鎖中】",
+      "url": "https://www.nap-camp.com/gifu/10432",
+      "campId": "C430",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "志摩オートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11071",
+      "campId": "C204",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "四季の森キャンプ場",
+      "url": "https://www.nap-camp.com/mie/16171",
+      "campId": "C197",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "青山高原保健休養地キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11097",
+      "campId": "C431",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "かぶとの森テラス CAMP &LOCAL FITNESS",
+      "url": "https://www.nap-camp.com/mie/14019",
+      "campId": "C218",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Lodge Akameto",
+      "url": "https://www.nap-camp.com/mie/11113",
+      "campId": "C432",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "わかすぎの里キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11099",
+      "campId": "C433",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "大淀ふれあいキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11088",
+      "campId": "C199",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "大滝峡キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11103",
+      "campId": "C185",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "松阪市森林公園",
+      "url": "https://www.nap-camp.com/mie/11081",
+      "campId": "C434",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "朝明渓魚苑キャンプ場",
+      "url": "https://www.nap-camp.com/mie/14349",
+      "campId": "C435",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "御座岬オートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11078",
+      "campId": "C436",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "OKオートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11050",
+      "campId": "C180",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ごかつら池ふるさと村",
+      "url": "https://www.nap-camp.com/mie/14008",
+      "campId": "C198",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "語らいの里噺野",
+      "url": "https://www.nap-camp.com/mie/11104",
+      "campId": "C210",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "おわせむかい農園キャンプ場ミノレ",
+      "url": "https://www.nap-camp.com/mie/15781",
+      "campId": "C186",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "いち",
+      "url": "https://www.nap-camp.com/mie/16720",
+      "campId": "C184",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ストロベリービーチ キャンプ場",
+      "url": "https://www.nap-camp.com/mie/15105",
+      "campId": "C437",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "志摩きらく荘",
+      "url": "https://www.nap-camp.com/mie/13608",
+      "campId": "C438",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ふれあいの森 勢山荘（キャンプ/バンガロー）",
+      "url": "https://www.nap-camp.com/mie/14009",
+      "campId": "C219",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Slow Time",
+      "url": "https://www.nap-camp.com/mie/14469",
+      "campId": "C181",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ログコテージはた",
+      "url": "https://www.nap-camp.com/mie/14793",
+      "campId": "C439",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "奥伊勢フォレストピアリバーサイドヴィレッジ",
+      "url": "https://www.nap-camp.com/mie/13905",
+      "campId": "C201",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "FREE AND EASY CAMP RESORT",
+      "url": "https://www.nap-camp.com/mie/14975",
+      "campId": "C174",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "鳥羽キャンピングガーデンGRENBLU",
+      "url": "https://www.nap-camp.com/mie/16729",
+      "campId": "C214",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "鈴鹿サーキット ファミリーキャンプ",
+      "url": "https://www.nap-camp.com/mie/13917",
+      "campId": "C211",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Meivi camp&dog",
+      "url": "https://www.nap-camp.com/mie/16142",
+      "campId": "C178",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "志摩グリーンアドベンチャーキャンプフィールド",
+      "url": "https://www.nap-camp.com/mie/16880",
+      "campId": "C440",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "伊勢志摩パールヴィレッジオートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/14542",
+      "campId": "C441",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ヒストリーパーク塚原オートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11100",
+      "campId": "C442",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ダイセーフォレストパークキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11116",
+      "campId": "C443",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "オートパークガーデン白山キャンピングプレイス",
+      "url": "https://www.nap-camp.com/mie/16631",
+      "campId": "C444",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "神岳テラスキャンピングパーク",
+      "url": "https://www.nap-camp.com/mie/16022",
+      "campId": "C209",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ロマンの森 yunoCAMPSITE",
+      "url": "https://www.nap-camp.com/mie/15785",
+      "campId": "C191",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "青山ハーモニー・フォレスト",
+      "url": "https://www.nap-camp.com/mie/11046",
+      "campId": "C445",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "伊勢路オートキャンプ場＆ＲＶパーク",
+      "url": "https://www.nap-camp.com/mie/16760",
+      "campId": "C194",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "M'sVILLAGE",
+      "url": "https://www.nap-camp.com/mie/11093",
+      "campId": "C177",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "アサケヒュッテ",
+      "url": "https://www.nap-camp.com/mie/11061",
+      "campId": "C446",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "松阪市総合運動公園キャンピングパーク",
+      "url": "https://www.nap-camp.com/mie/15662",
+      "campId": "C207",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Nordisk Hygge Circles UGAKEI",
+      "url": "https://www.nap-camp.com/mie/15794",
+      "campId": "C179",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "2four Camp Costa",
+      "url": "https://www.nap-camp.com/mie/16503",
+      "campId": "C447",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "津市榊原温泉湯の瀬ラムちゃんパーク",
+      "url": "https://www.nap-camp.com/mie/16002",
+      "campId": "C448",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "キャンプサイトかわせみ",
+      "url": "https://www.nap-camp.com/mie/16130",
+      "campId": "C449",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "なぎキャンプ場",
+      "url": "https://www.nap-camp.com/mie/16747",
+      "campId": "C450",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ASOBINO",
+      "url": "https://www.nap-camp.com/mie/14764",
+      "campId": "C172",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "たそがれテラスまきやま",
+      "url": "https://www.nap-camp.com/mie/14536",
+      "campId": "C451",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "美杉パークゴルフクラブ・キャンプスペース",
+      "url": "https://www.nap-camp.com/mie/14936",
+      "campId": "C452",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "つつじの里 荒滝キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11084",
+      "campId": "C453",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "エバーグレイズ香肌峡",
+      "url": "https://www.nap-camp.com/mie/16242",
+      "campId": "C188",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "xadventures キャンプ場",
+      "url": "https://www.nap-camp.com/mie/14300",
+      "campId": "C454",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "Azuri Camp Space",
+      "url": "https://www.nap-camp.com/mie/14752",
+      "campId": "C173",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "paddyfield",
+      "url": "https://www.nap-camp.com/mie/15658",
+      "campId": "C182",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "みさとスポーツ＆キャンプ",
+      "url": "https://www.nap-camp.com/mie/16041",
+      "campId": "C455",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "オフロードランドMio",
+      "url": "https://www.nap-camp.com/mie/14592",
+      "campId": "C456",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "清流の里ぬくみ",
+      "url": "https://www.nap-camp.com/mie/11101",
+      "campId": "C208",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "青川峡キャンピングパーク",
+      "url": "https://www.nap-camp.com/mie/11045",
+      "campId": "C221",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "飛雪の滝キャンプ場",
+      "url": "https://www.nap-camp.com/mie/14046",
+      "campId": "C212",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "鳥居道山キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11060",
+      "campId": "C213",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "浦谷オートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11086",
+      "campId": "C457",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "キャンプinn海山",
+      "url": "https://www.nap-camp.com/mie/11107",
+      "campId": "C189",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "大淀西海岸ムーンビーチキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11091",
+      "campId": "C200",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "フィオーレ志摩",
+      "url": "https://www.nap-camp.com/mie/14169",
+      "campId": "C458",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【R8/6閉鎖】やまてらす-FUJIWARA OUTDOOR LIVING-",
+      "url": "https://www.nap-camp.com/mie/14615",
+      "campId": "C220",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "伊勢志摩エバーグレイズ",
+      "url": "https://www.nap-camp.com/mie/11070",
+      "campId": "C192",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "尾高高原キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11058",
+      "campId": "C459",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "志摩市ともやま公園キャンプ村",
+      "url": "https://www.nap-camp.com/mie/11079",
+      "campId": "C460",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【R5/5閉鎖】田曽白浜オートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/14545",
+      "campId": "C461",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "島ヶ原温泉やぶっちゃオートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11049",
+      "campId": "C203",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Kabuku Resort",
+      "url": "https://www.nap-camp.com/mie/14042",
+      "campId": "C175",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "リバーサイド茶倉",
+      "url": "https://www.nap-camp.com/mie/11085",
+      "campId": "C462",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "スカイランドおおぼらキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11102",
+      "campId": "C190",
+      "disposition": "alias",
+      "reason": "施設名・住所を照合して既存IDに対応"
+    },
+    {
+      "name": "グリーンランドあさけ",
+      "url": "https://www.nap-camp.com/mie/11063",
+      "campId": "C463",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "WAGUビーチサイドオートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/14234",
+      "campId": "C464",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "鳥羽里山キャンプ場",
+      "url": "https://www.nap-camp.com/mie/16013",
+      "campId": "C465",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "八風キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11066",
+      "campId": "C195",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "大杉谷林間キャンプ村",
+      "url": "https://www.nap-camp.com/mie/11087",
+      "campId": "C466",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "きいながしま比幾海岸オートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11110",
+      "campId": "C467",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ネットワークリゾートなんせい",
+      "url": "https://www.nap-camp.com/mie/13530",
+      "campId": "C468",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "孫太郎オートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11111",
+      "campId": "C202",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "伊勢シーサイドモビレージ【H27/4現在閉鎖中】",
+      "url": "https://www.nap-camp.com/mie/11089",
+      "campId": "C469",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "奥伊勢の森「七保ベース」野あそび村キャンプ場",
+      "url": "https://www.nap-camp.com/mie/13860",
+      "campId": "C470",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "高須町公園オートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11082",
+      "campId": "C471",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "御座白浜観光農園きゃんぷ村",
+      "url": "https://www.nap-camp.com/mie/11077",
+      "campId": "C472",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "宇賀渓キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11044",
+      "campId": "C473",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "浮島パークなんとう",
+      "url": "https://www.nap-camp.com/mie/11105",
+      "campId": "C474",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "千枚田オートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11055",
+      "campId": "C475",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【閉鎖】いのさん農園キャンプ",
+      "url": "https://www.nap-camp.com/mie/14836",
+      "campId": "C476",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "TASO FOREST CAMP",
+      "url": "https://www.nap-camp.com/mie/14347",
+      "campId": "C477",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "オートキャンプサラクワ",
+      "url": "https://www.nap-camp.com/mie/16528",
+      "campId": "C478",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "CAMP&BEER BEER BELLY伊勢志摩",
+      "url": "https://www.nap-camp.com/mie/16592",
+      "campId": "C479",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "縁 古民家&CAMP ~kitayama~",
+      "url": "https://www.nap-camp.com/mie/16938",
+      "campId": "C480",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "美杉リゾート ファイアバレイコテージ",
+      "url": "https://www.nap-camp.com/mie/14565",
+      "campId": "C481",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "陸の孤島 ラグナ伊勢志摩",
+      "url": "https://www.nap-camp.com/mie/14711",
+      "campId": "C482",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "キャンプスタイルのボルダリングソーコかわせみ",
+      "url": "https://www.nap-camp.com/mie/14953",
+      "campId": "C483",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "賢島グランドホテル オートキャンプ",
+      "url": "https://www.nap-camp.com/mie/14989",
+      "campId": "C484",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ise天空の森",
+      "url": "https://www.nap-camp.com/mie/15750",
+      "campId": "C485",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "一の谷山荘",
+      "url": "https://www.nap-camp.com/mie/16023",
+      "campId": "C486",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "AOU no MORI-NIWA-",
+      "url": "https://www.nap-camp.com/mie/16847",
+      "campId": "C487",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "岩倉峡公園キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11047",
+      "campId": "C488",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "阿山ふるさとの森",
+      "url": "https://www.nap-camp.com/mie/11048",
+      "campId": "C489",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【R01/09現在 閉鎖】リベラルパーク青山",
+      "url": "https://www.nap-camp.com/mie/11051",
+      "campId": "C490",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "石水渓キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11052",
+      "campId": "C491",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "鈴鹿峠自然の家",
+      "url": "https://www.nap-camp.com/mie/11054",
+      "campId": "C492",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "新鹿海水浴場キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11056",
+      "campId": "C493",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "朝明茶屋キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11059",
+      "campId": "C205",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "朝明ロッジ",
+      "url": "https://www.nap-camp.com/mie/11062",
+      "campId": "C494",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "伊勢谷小屋",
+      "url": "https://www.nap-camp.com/mie/11064",
+      "campId": "C495",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【H27/7現在閉鎖】朝明テント・バンガロー村キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11065",
+      "campId": "C496",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "宮妻峡ヒュッテ",
+      "url": "https://www.nap-camp.com/mie/11067",
+      "campId": "C497",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "宮妻キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11068",
+      "campId": "C498",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "伊勢志摩ビーチサイド やまみキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11069",
+      "campId": "C499",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "美浜キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11072",
+      "campId": "C500",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "御座白浜キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11073",
+      "campId": "C501",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "かもめキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11074",
+      "campId": "C502",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "白浜パールキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11075",
+      "campId": "C503",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "御座白浜はまゆうバンガロー",
+      "url": "https://www.nap-camp.com/mie/11076",
+      "campId": "C504",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "真珠の森オートキャンプ場",
+      "url": "https://www.nap-camp.com/mie/11080",
+      "campId": "C505",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "奥香肌峡林間キャンプ場【H27/4現在閉鎖中】",
+      "url": "https://www.nap-camp.com/mie/11083",
+      "campId": "C506",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "サン大淀キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11090",
+      "campId": "C507",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "鳥羽キャンプセンター",
+      "url": "https://www.nap-camp.com/mie/11094",
+      "campId": "C508",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "矢頭中宮公園キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11095",
+      "campId": "C509",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "津市錫杖湖畔キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11096",
+      "campId": "C510",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "クリオキャンプ村",
+      "url": "https://www.nap-camp.com/mie/11108",
+      "campId": "C511",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "古里海岸キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11109",
+      "campId": "C196",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "椿渓谷キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11115",
+      "campId": "C512",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "小岐須渓谷キャンプ場",
+      "url": "https://www.nap-camp.com/mie/11117",
+      "campId": "C513",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "貸切ログハウスロッキー",
+      "url": "https://www.nap-camp.com/mie/13744",
+      "campId": "C514",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "さるびの温泉オートキャンプ場～SOUZONE～",
+      "url": "https://www.nap-camp.com/mie/14950",
+      "campId": "C187",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "松阪わんわんパラダイス森のホテルスメール",
+      "url": "https://www.nap-camp.com/mie/13937",
+      "campId": "C515",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "Log&Sauna Jyouno-hama",
+      "url": "https://www.nap-camp.com/mie/16007",
+      "campId": "C516",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "My Camp 桑名",
+      "url": "https://www.nap-camp.com/mie/16149",
+      "campId": "C517",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ATAATA RESORT",
+      "url": "https://www.nap-camp.com/mie/16383",
+      "campId": "C518",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "猿田彦BASE",
+      "url": "https://www.nap-camp.com/mie/16544",
+      "campId": "C519",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "音の杜キャンプ場",
+      "url": "https://www.nap-camp.com/mie/16812",
+      "campId": "C520",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "大河原温泉アウトドアヴィレッジ かもしかオートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/14000",
+      "campId": "C255",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "かもしか葛川森のキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11394",
+      "campId": "C230",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "白浜荘オートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11384",
+      "campId": "C272",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Gulliver Village ガリバー青少年旅行村",
+      "url": "https://www.nap-camp.com/shiga/11389",
+      "campId": "C236",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "KAMOSHIKA EX",
+      "url": "https://www.nap-camp.com/shiga/14798",
+      "campId": "C223",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "宝船温泉ファミリーキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11381",
+      "campId": "C259",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "奥永源寺BASE",
+      "url": "https://www.nap-camp.com/shiga/16697",
+      "campId": "C257",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "大見いこいの広場",
+      "url": "https://www.nap-camp.com/shiga/11365",
+      "campId": "C256",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "高山キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11401",
+      "campId": "C278",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "琵琶湖里山オートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/15776",
+      "campId": "C521",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "琵琶湖ヒルズオートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/14756",
+      "campId": "C522",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "スターフォレストマキノグランピングヴィラ",
+      "url": "https://www.nap-camp.com/shiga/16724",
+      "campId": "C523",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "RIVERSIDE GLAMPING Nuts",
+      "url": "https://www.nap-camp.com/shiga/13813",
+      "campId": "C524",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "グランピーハウス マキノ",
+      "url": "https://www.nap-camp.com/shiga/15969",
+      "campId": "C525",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "グランピーナアウトドアーズマキノ",
+      "url": "https://www.nap-camp.com/shiga/16857",
+      "campId": "C526",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "十二坊温泉ファミリーキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/13841",
+      "campId": "C254",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "六ツ矢崎浜オートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11391",
+      "campId": "C253",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "MIZUNO CAMPER BASE 富川",
+      "url": "https://www.nap-camp.com/shiga/14604",
+      "campId": "C224",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "かもしかKONZEキャンピングヴィレッジ",
+      "url": "https://www.nap-camp.com/shiga/15682",
+      "campId": "C229",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "マキノ高原キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11380",
+      "campId": "C248",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ビワコマリンスポーツオートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11383",
+      "campId": "C243",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "家族旅行村 ビラデスト今津",
+      "url": "https://www.nap-camp.com/shiga/11387",
+      "campId": "C527",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "朽木オートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/14763",
+      "campId": "C262",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "森のHolidayキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/14612",
+      "campId": "C264",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "じゅらくの里キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/16429",
+      "campId": "C232",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ISO BASE",
+      "url": "https://www.nap-camp.com/shiga/16141",
+      "campId": "C528",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "田園びより",
+      "url": "https://www.nap-camp.com/shiga/15960",
+      "campId": "C271",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ウッディパル余呉",
+      "url": "https://www.nap-camp.com/shiga/11405",
+      "campId": "C234",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "グリーンパーク山東",
+      "url": "https://www.nap-camp.com/shiga/11418",
+      "campId": "C238",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "能登川水車カヌーランド キャンプフィールド",
+      "url": "https://www.nap-camp.com/shiga/16937",
+      "campId": "C529",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "BIG･BREATH",
+      "url": "https://www.nap-camp.com/shiga/14645",
+      "campId": "C530",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "HAPPY川【River】",
+      "url": "https://www.nap-camp.com/shiga/16705",
+      "campId": "C531",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "デルフリキャンプ いつまでたっても完成しない里山のキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/14421",
+      "campId": "C240",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "妙理の里キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/14451",
+      "campId": "C532",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "リラクピング メタセコイア店",
+      "url": "https://www.nap-camp.com/shiga/15668",
+      "campId": "C287",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "たき火研究所",
+      "url": "https://www.nap-camp.com/shiga/16513",
+      "campId": "C533",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "minoriキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/15769",
+      "campId": "C227",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "HAPPY山",
+      "url": "https://www.nap-camp.com/shiga/15130",
+      "campId": "C222",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "さくら街道オートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/14510",
+      "campId": "C231",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "高取山ふれあい公園",
+      "url": "https://www.nap-camp.com/shiga/11370",
+      "campId": "C277",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ニュー白浜オートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11382",
+      "campId": "C241",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "愛郷の森",
+      "url": "https://www.nap-camp.com/shiga/11410",
+      "campId": "C260",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "妹背の里",
+      "url": "https://www.nap-camp.com/shiga/11367",
+      "campId": "C276",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "マイアミ浜オートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11419",
+      "campId": "C245",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "グリム冒険の森",
+      "url": "https://www.nap-camp.com/shiga/11366",
+      "campId": "C283",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "奥琵琶湖キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11364",
+      "campId": "C534",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "マキノサニービーチ知内浜オートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11379",
+      "campId": "C246",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "STAGEX高島（ステージクス高島）",
+      "url": "https://www.nap-camp.com/shiga/14115",
+      "campId": "C280",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ASOBIWA HIRA BASE",
+      "url": "https://www.nap-camp.com/shiga/14452",
+      "campId": "C535",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "比良げんき村",
+      "url": "https://www.nap-camp.com/shiga/11399",
+      "campId": "C265",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "WASUKI BASE びわ湖 VILLA STYLE",
+      "url": "https://www.nap-camp.com/shiga/13861",
+      "campId": "C536",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【R5/8 閉鎖】信楽キャンプ 北欧ハウス",
+      "url": "https://www.nap-camp.com/shiga/14409",
+      "campId": "C537",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "滋賀県希望が丘文化公園",
+      "url": "https://www.nap-camp.com/shiga/11368",
+      "campId": "C269",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "こんぜの里バンガロー村",
+      "url": "https://www.nap-camp.com/shiga/11369",
+      "campId": "C538",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "白ひげビーチ",
+      "url": "https://www.nap-camp.com/shiga/11386",
+      "campId": "C225",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "矢橋帰帆島公園キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11393",
+      "campId": "C273",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ジェイホッパーズ琵琶湖キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/14370",
+      "campId": "C539",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "滋賀県立びわ湖こどもの国キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11385",
+      "campId": "C270",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "マキノサニービーチ高木浜オートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11378",
+      "campId": "C247",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "池田キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11414",
+      "campId": "C540",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "青土ダムエコーバレイ",
+      "url": "https://www.nap-camp.com/shiga/11374",
+      "campId": "C228",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "もみじの里松原オートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11412",
+      "campId": "C263",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "リバーランズ角川",
+      "url": "https://www.nap-camp.com/shiga/11376",
+      "campId": "C541",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【R8/3 閉鎖】鈴鹿ベースキャンプ（旧：黄和田ベースキャンプ）",
+      "url": "https://www.nap-camp.com/shiga/11407",
+      "campId": "C542",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "近江舞子中浜水泳場",
+      "url": "https://www.nap-camp.com/shiga/11398",
+      "campId": "C543",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "安曇川キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/14937",
+      "campId": "C544",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "みさき自然公園キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11392",
+      "campId": "C233",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "青柳浜キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11397",
+      "campId": "C545",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "二本松キャンプ水泳場",
+      "url": "https://www.nap-camp.com/shiga/11402",
+      "campId": "C251",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "琵琶湖ヒルズビレッジ",
+      "url": "https://www.nap-camp.com/shiga/15021",
+      "campId": "C546",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ペンションレークサイド",
+      "url": "https://www.nap-camp.com/shiga/15886",
+      "campId": "C547",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "サンタワーマリーナ",
+      "url": "https://www.nap-camp.com/shiga/16307",
+      "campId": "C548",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "富川エスパーク",
+      "url": "https://www.nap-camp.com/shiga/16316",
+      "campId": "C549",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "NodayamaTime",
+      "url": "https://www.nap-camp.com/shiga/16564",
+      "campId": "C550",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "RETREAPING VILLAGE MAGATANIA",
+      "url": "https://www.nap-camp.com/shiga/16951",
+      "campId": "C551",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "Okubiwako Marvelous Green（奥琵琶湖マーベラスグリーン）",
+      "url": "https://www.nap-camp.com/shiga/13906",
+      "campId": "C552",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "グレンタ グランピング ヴィレッジ",
+      "url": "https://www.nap-camp.com/shiga/15975",
+      "campId": "C553",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "THE PLACE K (シバヒロ Outdoor Camp & BBQ）",
+      "url": "https://www.nap-camp.com/shiga/16275",
+      "campId": "C554",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【閉鎖】soto161BBQ+CAMP",
+      "url": "https://www.nap-camp.com/shiga/16511",
+      "campId": "C555",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "大原ダムキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11371",
+      "campId": "C556",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【H28/3現在閉鎖中】甲南岩尾キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11372",
+      "campId": "C557",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "水口スポーツの森キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11373",
+      "campId": "C266",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "【R2/12現在閉鎖中】海津大崎キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11377",
+      "campId": "C558",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "近江あまごの里",
+      "url": "https://www.nap-camp.com/shiga/11388",
+      "campId": "C559",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "松の浦キャンプ場 みのりのお店",
+      "url": "https://www.nap-camp.com/shiga/11396",
+      "campId": "C560",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "北小松区営小松浜水泳場",
+      "url": "https://www.nap-camp.com/shiga/11400",
+      "campId": "C561",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "余呉湖キャンプ場【H27/4現在閉鎖中】",
+      "url": "https://www.nap-camp.com/shiga/11406",
+      "campId": "C562",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "エコロジー八風キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11408",
+      "campId": "C563",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "すこやかの杜キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11409",
+      "campId": "C564",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "神崎川キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11413",
+      "campId": "C565",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "永源寺キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11415",
+      "campId": "C267",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "宇賀野神明キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11416",
+      "campId": "C566",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【H28/3現在閉鎖中】奥伊吹キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/11417",
+      "campId": "C567",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "【H28/5現在閉鎖中】滋賀県立虎御前山教育キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/13534",
+      "campId": "C568",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "cottage樹樹",
+      "url": "https://www.nap-camp.com/shiga/13745",
+      "campId": "C569",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "ごんぜの里",
+      "url": "https://www.nap-camp.com/shiga/13777",
+      "campId": "C570",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "bike guy Go's☆キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/16912",
+      "campId": "C226",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "桐生若人の広場",
+      "url": "https://www.nap-camp.com/shiga/14083",
+      "campId": "C571",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "マキノステイズViWaびわ",
+      "url": "https://www.nap-camp.com/shiga/14189",
+      "campId": "C572",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "蒲生野の湯",
+      "url": "https://www.nap-camp.com/shiga/14892",
+      "campId": "C573",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "HillSide 南比良",
+      "url": "https://www.nap-camp.com/shiga/15763",
+      "campId": "C574",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "GLAMP ELEMENT",
+      "url": "https://www.nap-camp.com/shiga/15894",
+      "campId": "C575",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "休暇村近江八幡キャンプ場",
+      "url": "https://www.nap-camp.com/shiga/16066",
+      "campId": "C252",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "蒲生野の湯オートキャンプ場",
+      "url": "https://www.nap-camp.com/shiga/16471",
+      "campId": "C576",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "POLARIS",
+      "url": "https://www.nap-camp.com/shiga/16600",
+      "campId": "C577",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "今津BASE",
+      "url": "https://www.nap-camp.com/shiga/16814",
+      "campId": "C578",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "RVパーク近江舞子トーンズ",
+      "url": "https://www.nap-camp.com/shiga/16833",
+      "campId": "C579",
+      "disposition": "added",
+      "reason": "後続収集のseenに存在したが元346件へ未統合"
+    },
+    {
+      "name": "秋葉オートキャンプ場",
+      "url": "https://www.nap-camp.com/shizuoka/11846",
+      "campId": "C322",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "はままつフルーツパーク時之栖",
+      "url": "https://www.nap-camp.com/shizuoka/14121",
+      "campId": "C299",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "音助の里",
+      "url": "https://www.nap-camp.com/shizuoka/14928",
+      "campId": "C326",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "浜松市渚園",
+      "url": "https://www.nap-camp.com/shizuoka/11836",
+      "campId": "C316",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "浜名湖パークビレッジ",
+      "url": "https://www.nap-camp.com/shizuoka/16146",
+      "campId": "C314",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "Ogawa. Camp Field",
+      "url": "https://www.nap-camp.com/shizuoka/16145",
+      "campId": "C292",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "石神の里キャンプ場",
+      "url": "https://www.nap-camp.com/shizuoka/11852",
+      "campId": "C321",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "hamanako camp field ASOVIVA",
+      "url": "https://www.nap-camp.com/shizuoka/16474",
+      "campId": "C294",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "atago feels (あたごフィールズ)",
+      "url": "https://www.nap-camp.com/shizuoka/16741",
+      "campId": "C293",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "浜名湖カナルオートキャンプ場",
+      "url": "https://www.nap-camp.com/shizuoka/15120",
+      "campId": "C313",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "明野キャンプ場",
+      "url": "https://www.nap-camp.com/shizuoka/11845",
+      "campId": "C311",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "キャンプすがり2 Riverside Forest（リバーサイドフォレスト）",
+      "url": "https://www.nap-camp.com/shizuoka/16934",
+      "campId": "C305",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "滝沢キャンプ場",
+      "url": "https://www.nap-camp.com/shizuoka/16881",
+      "campId": "C319",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "小川の里オートキャンプ場",
+      "url": "https://www.nap-camp.com/shizuoka/11847",
+      "campId": "C310",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "はるの山の村",
+      "url": "https://www.nap-camp.com/shizuoka/14391",
+      "campId": "C300",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "星降るみさくぼキャンプ場よつばの杜",
+      "url": "https://www.nap-camp.com/shizuoka/11849",
+      "campId": "C312",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "MIYAKODA.BBQ.FEILD",
+      "url": "https://www.nap-camp.com/shizuoka/16634",
+      "campId": "C328",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "ヒュッゲ湖西市民キャンプ場",
+      "url": "https://www.nap-camp.com/shizuoka/16243",
+      "campId": "C306",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "あてらの森 キャンプ場",
+      "url": "https://www.nap-camp.com/shizuoka/16180",
+      "campId": "C297",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "キャンプすがり1",
+      "url": "https://www.nap-camp.com/shizuoka/16178",
+      "campId": "C304",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "キャンプすがり2 RV・車中泊スポット",
+      "url": "https://www.nap-camp.com/shizuoka/16578",
+      "campId": "C332",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "【R7/3閉鎖】ミニキャンプ浜名湖",
+      "url": "https://www.nap-camp.com/shizuoka/14460",
+      "campId": "C331",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "はるの川音の郷",
+      "url": "https://www.nap-camp.com/shizuoka/11841",
+      "campId": "C301",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "熊平水辺の里オートキャンプ場",
+      "url": "https://www.nap-camp.com/shizuoka/13542",
+      "campId": "C320",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "てんてんゴーしぶ川",
+      "url": "https://www.nap-camp.com/shizuoka/11855",
+      "campId": "C298",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "上島キャンプ場",
+      "url": "https://www.nap-camp.com/shizuoka/11839",
+      "campId": "C307",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "浦川キャンプ村",
+      "url": "https://www.nap-camp.com/shizuoka/11838",
+      "campId": "C317",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "海辺の遊び場BARBEEふじ",
+      "url": "https://www.nap-camp.com/shizuoka/11835",
+      "campId": "C318",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "四駆アイランド",
+      "url": "https://www.nap-camp.com/shizuoka/11840",
+      "campId": "C308",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "べんてんじまヴィレッジ",
+      "url": "https://www.nap-camp.com/shizuoka/11843",
+      "campId": "C330",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "森山バンガロー",
+      "url": "https://www.nap-camp.com/shizuoka/11844",
+      "campId": "C334",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "小川の里 一景",
+      "url": "https://www.nap-camp.com/shizuoka/11848",
+      "campId": "C309",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "上阿多古バンガロー",
+      "url": "https://www.nap-camp.com/shizuoka/11850",
+      "campId": "C333",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "あたご島キャンプ場",
+      "url": "https://www.nap-camp.com/shizuoka/11851",
+      "campId": "C296",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "龍山秘密村",
+      "url": "https://www.nap-camp.com/shizuoka/11853",
+      "campId": "C327",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "静岡県立森林公園キャンプ場",
+      "url": "https://www.nap-camp.com/shizuoka/11854",
+      "campId": "C325",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "浜松市かわな野外活動センター",
+      "url": "https://www.nap-camp.com/shizuoka/11856",
+      "campId": "C315",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "エヌエルファーム",
+      "url": "https://www.nap-camp.com/shizuoka/11857",
+      "campId": "C303",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    },
+    {
+      "name": "villa vacances hamanako",
+      "url": "https://www.nap-camp.com/shizuoka/15826",
+      "campId": "C329",
+      "disposition": "existing",
+      "reason": "既存の掲載URLまたは名称に一致"
+    }
+  ]
+}

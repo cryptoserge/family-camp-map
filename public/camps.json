@@ -12161,10 +12161,12 @@
       ],
       "addressSource": "https://lemonfarm.net/",
       "location": {
-        "status": "unverified",
-        "source": "https://lemonfarm.net/",
+        "status": "verified",
+        "source": "https://sekikanko.jp/blog/detail_114.html",
         "checked": "2026-09-16",
-        "note": "施設名・所在地と掲載座標の照合が未完了。施設案内をご確認ください。"
+        "note": "関市公式観光サイト「2026年上半期にオープン！関市の注目スポット4選」のレモンファーム名付きマーカーを照合。施設の案内位置であり入口・区画位置ではない。",
+        "lat": 35.51678832364091,
+        "lng": 136.95955753326416
       }
     },
     {

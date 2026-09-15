@@ -18,6 +18,8 @@ test('independent booking and missed large/free sites remain candidates',()=>{
  }
  const lemon=camps.find(x=>x.name.includes('レモンファーム'));
  assert.match(lemon.size,/110㎡/);assert.match(lemon.capacity,/8名/);
+ assert.equal(lemon.location.status,'verified');assert.match(lemon.location.source,/sekikanko.jp/);
+ assert.ok(lemon.location.lat>35.51&&lemon.location.lat<35.52);assert.ok(lemon.location.lng>136.95&&lemon.location.lng<136.97);
  assert.ok(filtered(camps,{q:'レモンファーム'}).some(x=>x.id===lemon.id));
  assert.deepEqual(restore(shareHash([lemon.id,'C107']),camps),[lemon.id,'C107']);
 });
